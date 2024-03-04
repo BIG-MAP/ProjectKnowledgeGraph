@@ -12,7 +12,7 @@
 
 <https://graph.big-map.eu/project> rdf:type owl:Ontology ;
                                     owl:versionIRI <https://graph.big-map.eu/project/0.1.0/project> ;
-                                    owl:imports <http://data.europa.eu/s66/v2.4#> .
+                                    owl:imports <https://w3id.org/emmo/domain/datamanagement/0.1.0-beta/datamanagement> .
 
 #################################################################
 #    Annotation properties
@@ -1861,6 +1861,390 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
                                                                                   eurio:rcn "784959"^^xsd:nonNegativeInteger ;
                                                                                   eurio:title "Data Management Plans: the Importance of Data Management in the BIG-MAP Project" ;
                                                                                   rdfs:label "Data Management Plans: the Importance of Data Management in the BIG-MAP Project" .
+
+
+###  https://graph.big-map.edu/project#bigmap_04458deb_87f8_420b_8545_9f4e7cde79cf
+<https://graph.big-map.edu/project#bigmap_04458deb_87f8_420b_8545_9f4e7cde79cf> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 2.2 Train ML potentials"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_07f83a4c_baae_4da8_87bf_03c7255e9b7f
+<https://graph.big-map.edu/project#bigmap_07f83a4c_baae_4da8_87bf_03c7255e9b7f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 8.1 Selection and refinement of pre-existing initiatives regarding standards and protocols"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_11381e8d_1182_4eab_bb7d_ec87d7182053
+<https://graph.big-map.edu/project#bigmap_11381e8d_1182_4eab_bb7d_ec87d7182053> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 4.5 Combinatorial synthesis and application of inorganic coatings"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_129019df_d7bc_498b_861a_2eab12914e54
+<https://graph.big-map.edu/project#bigmap_129019df_d7bc_498b_861a_2eab12914e54> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 9.3 Development of a software framework for data management, linkage and protection"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_12d7421b_451f_4a00_baa8_a6d162a915e7
+<https://graph.big-map.edu/project#bigmap_12d7421b_451f_4a00_baa8_a6d162a915e7> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 2.5 Modelling operando spectroscopies and atomistic-level characterization"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59
+<https://graph.big-map.edu/project#bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP1 Project management and education, exploitation and outreach"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_1addb028_8e20_4c4e_bdd7_62e35a79e56b
+<https://graph.big-map.edu/project#bigmap_1addb028_8e20_4c4e_bdd7_62e35a79e56b> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 10.2 An automated data analysis framework"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_238ab1fb_7217_4ac7_94c7_d9e8ee2e7bf0
+<https://graph.big-map.edu/project#bigmap_238ab1fb_7217_4ac7_94c7_d9e8ee2e7bf0> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 8.4 Organization of European platforms for battery testing"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_23eee855_6804_45ca_8a5d_0dd0be8464a1
+<https://graph.big-map.edu/project#bigmap_23eee855_6804_45ca_8a5d_0dd0be8464a1> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 6.4 HTS in electrolyte formulation, cell assembly and filtration measurements"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_28eaf875_4075_46ab_aa57_1afdccb34daa
+<https://graph.big-map.edu/project#bigmap_28eaf875_4075_46ab_aa57_1afdccb34daa> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 5.4 Data Analysis"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3
+<https://graph.big-map.edu/project#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP7 Battery Interface Ontology"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_2af6bfee_7595_4318_9663_d9fd1bf93749
+<https://graph.big-map.edu/project#bigmap_2af6bfee_7595_4318_9663_d9fd1bf93749> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 9.4 Deployment of a cloud platform for automated simulations and data access"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_2dd6065d_5fac_400e_a2d1_281d10185b9f
+<https://graph.big-map.edu/project#bigmap_2dd6065d_5fac_400e_a2d1_281d10185b9f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 9.2 Integration of the computational platforms"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_2f19922a_497a_4707_9ce0_6701a08a4d98
+<https://graph.big-map.edu/project#bigmap_2f19922a_497a_4707_9ce0_6701a08a4d98> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 4.3 Integration and validation"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_2fd6bfdc_605d_4399_8ab1_edacae331dd4
+<https://graph.big-map.edu/project#bigmap_2fd6bfdc_605d_4399_8ab1_edacae331dd4> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 1.5 Development and implementation of an Exploitation Plan"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_3601b89b_9ed0_4978_bb31_82f6e46778ec
+<https://graph.big-map.edu/project#bigmap_3601b89b_9ed0_4978_bb31_82f6e46778ec> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 10.1 Accelerating experiments with active learning"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_3a9f136e_ba99_4545_8339_c9c57f99aa59
+<https://graph.big-map.edu/project#bigmap_3a9f136e_ba99_4545_8339_c9c57f99aa59> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 3.4 Verification and Validation of Models for HTS experiments"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742
+<https://graph.big-map.edu/project#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP10 AI Accelerated Materials Discovery"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_3cbf69e5_63f7_441c_913b_cd8476784c9f
+<https://graph.big-map.edu/project#bigmap_3cbf69e5_63f7_441c_913b_cd8476784c9f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 1.3 Research Data Management"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_3f184710_cf8f_4879_bd82_aba905980aaf
+<https://graph.big-map.edu/project#bigmap_3f184710_cf8f_4879_bd82_aba905980aaf> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 5.2 Workflow"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_4fa2e10e_efe2_45ad_b426_217725e1ceda
+<https://graph.big-map.edu/project#bigmap_4fa2e10e_efe2_45ad_b426_217725e1ceda> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 7.2 Design a general battery ontology"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_50e3dff4_791f_4518_8583_71f4336d3a65
+<https://graph.big-map.edu/project#bigmap_50e3dff4_791f_4518_8583_71f4336d3a65> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 11.5 Transferability of developed methodology to other materials"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_54b4c68c_0656_4d86_b7ce_e9274d600bbd
+<https://graph.big-map.edu/project#bigmap_54b4c68c_0656_4d86_b7ce_e9274d600bbd> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 3.5 Workflow demonstrators"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_564a979c_3226_43a7_9db7_7dca715f5f7f
+<https://graph.big-map.edu/project#bigmap_564a979c_3226_43a7_9db7_7dca715f5f7f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 7.3 Design the battery interface ontology (BIO)"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_5c4e89a4_9e77_48a5_877a_17b00049baa2
+<https://graph.big-map.edu/project#bigmap_5c4e89a4_9e77_48a5_877a_17b00049baa2> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 3.3 AI enhanced models"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed
+<https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP3 Multiscale Modelling"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_686fe33a_ba34_4bfa_87a1_01e8112612eb
+<https://graph.big-map.edu/project#bigmap_686fe33a_ba34_4bfa_87a1_01e8112612eb> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 2.1 Data from QM calculations"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_6b2298af_33c0_4cb6_a4b5_b658b8b6d893
+<https://graph.big-map.edu/project#bigmap_6b2298af_33c0_4cb6_a4b5_b658b8b6d893> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 6.5 HTS of inorganic protective coatings"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_6be34afe_25f6_4c56_a6ed_7c2549effeea
+<https://graph.big-map.edu/project#bigmap_6be34afe_25f6_4c56_a6ed_7c2549effeea> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 6.3 HTS analysis via selected methods"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_6dae56e9_9449_4577_9698_8f96c306fbc3
+<https://graph.big-map.edu/project#bigmap_6dae56e9_9449_4577_9698_8f96c306fbc3> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 2.3 ML in battery compound space"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_6e09db0c_6b59_4b1e_b5fd_1ef1a38d42f0
+<https://graph.big-map.edu/project#bigmap_6e09db0c_6b59_4b1e_b5fd_1ef1a38d42f0> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 4.4 Synthesis of components for organic protective coatings"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_7304d2cc_b9f5_4efc_9e6f_fa70143f87ac
+<https://graph.big-map.edu/project#bigmap_7304d2cc_b9f5_4efc_9e6f_fa70143f87ac> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 7.1 Establish ontology standards to support interoperability and dissemination"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_78efbe79_cbbd_4cfe_b5db_9ad6dd5c38e4
+<https://graph.big-map.edu/project#bigmap_78efbe79_cbbd_4cfe_b5db_9ad6dd5c38e4> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 9.1 Robust and reliable workflows for automated simulations"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_7d9ff7dc_25b0_448d_8e8d_8faf2ff06a6a
+<https://graph.big-map.edu/project#bigmap_7d9ff7dc_25b0_448d_8e8d_8faf2ff06a6a> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 1.7 Dissemination, outreach and communication"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_83bb8087_695b_4b8f_8144_361ea98ce73b
+<https://graph.big-map.edu/project#bigmap_83bb8087_695b_4b8f_8144_361ea98ce73b> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 11.2 Dynamic interface/interphase descriptors"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f
+<https://graph.big-map.edu/project#bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 7.4 Implement the ontology to describe specific case studies"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_9043fcbd_f41c_48a4_ae5d_e53caf11c9fb
+<https://graph.big-map.edu/project#bigmap_9043fcbd_f41c_48a4_ae5d_e53caf11c9fb> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 1.6 Stakeholder activities and management"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed
+<https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP4 Modular Robotics and Syntheses"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_9affbba5_d231_4976_af6e_c6d4796c2f76
+<https://graph.big-map.edu/project#bigmap_9affbba5_d231_4976_af6e_c6d4796c2f76> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 6.1 Preparation and characterization of feeding units for the HTS assays"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_9c8e4459_a2d6_4a91_8446_4584dd357b49
+<https://graph.big-map.edu/project#bigmap_9c8e4459_a2d6_4a91_8446_4584dd357b49> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task1.1 Administrative and financial management and reporting"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_9f4ee7b1_8cf9_45b9_a015_b20ff435bd36
+<https://graph.big-map.edu/project#bigmap_9f4ee7b1_8cf9_45b9_a015_b20ff435bd36> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 3.1 Development and validation of multiscale modelling frameworks"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_a4cc9800_efce_4c94_80dd_fbfcad2f3249
+<https://graph.big-map.edu/project#bigmap_a4cc9800_efce_4c94_80dd_fbfcad2f3249> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 2.4 Battery simulations at the atomistic level"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_a817b3d0_ec14_4461_8021_963835cabbf2
+<https://graph.big-map.edu/project#bigmap_a817b3d0_ec14_4461_8021_963835cabbf2> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 4.2 Hardware and software design"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3
+<https://graph.big-map.edu/project#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP8 Standards and Protocols"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_b208ac11_38fe_46f5_b7ea_1216294922d8
+<https://graph.big-map.edu/project#bigmap_b208ac11_38fe_46f5_b7ea_1216294922d8> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 1.4 Intellectual Property management and utilization"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4
+<https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP6 HTS and Testing"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_b90b23b3_7925_41f8_9c56_629801a20d21
+<https://graph.big-map.edu/project#bigmap_b90b23b3_7925_41f8_9c56_629801a20d21> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 5.1 Benchmark"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83
+<https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP2 Accelerated atomic-scale simulations"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c1a1d058_c1dc_4188_92da_6ec0461401eb
+<https://graph.big-map.edu/project#bigmap_c1a1d058_c1dc_4188_92da_6ec0461401eb> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 4.1 Specifications"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4
+<https://graph.big-map.edu/project#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP5 Characterisation"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c1b7e4cd_b569_4209_8b3c_8f9011ff1416
+<https://graph.big-map.edu/project#bigmap_c1b7e4cd_b569_4209_8b3c_8f9011ff1416> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 10.3 Transfer learning and new fundamental insights"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c20bc045_54fb_4ae9_a17a_198956340cbd
+<https://graph.big-map.edu/project#bigmap_c20bc045_54fb_4ae9_a17a_198956340cbd> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 8.2 Creation of working groups and workflow"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c42daa47_8d84_4487_9df2_e0eefa39b655
+<https://graph.big-map.edu/project#bigmap_c42daa47_8d84_4487_9df2_e0eefa39b655> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 11.4 Uncertainty-guided spatio-temporal models"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c4b8a772_40ae_4f94_afe2_05405896cbb5
+<https://graph.big-map.edu/project#bigmap_c4b8a772_40ae_4f94_afe2_05405896cbb5> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 10.4 Automatic reasoning and materials funnel"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_c595b1c2_ef6f_494a_85f1_2c8f68028e0f
+<https://graph.big-map.edu/project#bigmap_c595b1c2_ef6f_494a_85f1_2c8f68028e0f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 8.3 Implementation of these standards and protocols"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20
+<https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP11 Battery Interface Genome"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a
+<https://graph.big-map.edu/project#bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 3.2 Verification and Validation of Scale-Bridging Protocols for SEI/CEI formation"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b
+<https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "WP9 Infrastructure and Interoperability"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_defafbe2_1a0e_4c23_a89f_769a3b695ab5
+<https://graph.big-map.edu/project#bigmap_defafbe2_1a0e_4c23_a89f_769a3b695ab5> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 9.5 Integration of automated experiments and automated simulations"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_e448e08a_7114_4020_884b_d4df0b7b22c2
+<https://graph.big-map.edu/project#bigmap_e448e08a_7114_4020_884b_d4df0b7b22c2> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 6.2 Formulation and characterization of advanced electrolyte components for the HTS assays"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_e57865de_7cca_4863_9aa7_ae75ae585b8f
+<https://graph.big-map.edu/project#bigmap_e57865de_7cca_4863_9aa7_ae75ae585b8f> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 1.2 Participation in the Future Battery Technologies initiative and collaboration with other LC-BAT projects"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_e5bf3d3f_1983_4ab1_9a4c_f87365220ded
+<https://graph.big-map.edu/project#bigmap_e5bf3d3f_1983_4ab1_9a4c_f87365220ded> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 11.3 Hierarchical latent space multi-scale models"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_e6f2d02d_319e_4a50_af13_b845c03088c9
+<https://graph.big-map.edu/project#bigmap_e6f2d02d_319e_4a50_af13_b845c03088c9> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 5.3 Data acquisition and visualization"@en .
+
+
+###  https://graph.big-map.edu/project#bigmap_ed7d9a4c_7ab7_4e7c_886e_5fe601773aa6
+<https://graph.big-map.edu/project#bigmap_ed7d9a4c_7ab7_4e7c_886e_5fe601773aa6> rdf:type owl:NamedIndividual ,
+                                                                                         <https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245> ;
+                                                                                <http://www.w3.org/2004/02/skos/core#prefLabel> "Task 11.1 Integration of multi-fidelity data from all domains"@en .
 
 
 ###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
