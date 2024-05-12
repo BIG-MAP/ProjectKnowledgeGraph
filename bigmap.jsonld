@@ -3634,6 +3634,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 2.2 Train ML potentials"
@@ -3645,6 +3648,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 8.1 Selection and refinement of pre-existing initiatives regarding standards and protocols"
@@ -3656,6 +3662,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 4.5 Combinatorial synthesis and application of inorganic coatings"
@@ -3667,6 +3676,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 9.3 Development of a software framework for data management, linkage and protection"
@@ -3678,6 +3690,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 2.5 Modelling operando spectroscopies and atomistic-level characterization"
@@ -3700,6 +3715,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 10.2 An automated data analysis framework"
@@ -3711,6 +3729,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 8.4 Organization of European platforms for battery testing"
@@ -3722,6 +3743,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 6.4 HTS in electrolyte formulation, cell assembly and filtration measurements"
@@ -3733,6 +3757,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 5.4 Data Analysis"
@@ -3755,6 +3782,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 9.4 Deployment of a cloud platform for automated simulations and data access"
@@ -3766,6 +3796,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 9.2 Integration of the computational platforms"
@@ -3777,6 +3810,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 4.3 Integration and validation"
@@ -3788,6 +3824,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 1.5 Development and implementation of an Exploitation Plan"
@@ -3799,6 +3838,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 10.1 Accelerating experiments with active learning"
@@ -3810,6 +3852,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 3.4 Verification and Validation of Models for HTS experiments"
@@ -3832,6 +3877,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 1.3 Research Data Management"
@@ -3843,6 +3891,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 5.2 Workflow"
@@ -3854,6 +3905,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 7.2 Design a general battery ontology"
@@ -3865,6 +3919,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 11.5 Transferability of developed methodology to other materials"
@@ -3876,6 +3933,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 3.5 Workflow demonstrators"
@@ -3887,6 +3947,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 7.3 Design the battery interface ontology (BIO)"
@@ -3898,6 +3961,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 3.3 AI enhanced models"
@@ -3920,6 +3986,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 2.1 Data from QM calculations"
@@ -3931,6 +4000,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 6.5 HTS of inorganic protective coatings"
@@ -3942,6 +4014,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 6.3 HTS analysis via selected methods"
@@ -3953,6 +4028,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 2.3 ML in battery compound space"
@@ -3964,6 +4042,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 4.4 Synthesis of components for organic protective coatings"
@@ -3975,6 +4056,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 7.1 Establish ontology standards to support interoperability and dissemination"
@@ -3986,6 +4070,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 9.1 Robust and reliable workflows for automated simulations"
@@ -3997,6 +4084,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 1.7 Dissemination, outreach and communication"
@@ -4008,6 +4098,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 11.2 Dynamic interface/interphase descriptors"
@@ -4019,6 +4112,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 7.4 Implement the ontology to describe specific case studies"
@@ -4030,6 +4126,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 1.6 Stakeholder activities and management"
@@ -4052,6 +4151,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 6.1 Preparation and characterization of feeding units for the HTS assays"
@@ -4063,6 +4165,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task1.1 Administrative and financial management and reporting"
@@ -4074,6 +4179,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 3.1 Development and validation of multiscale modelling frameworks"
@@ -4085,6 +4193,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 2.4 Battery simulations at the atomistic level"
@@ -4096,6 +4207,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 4.2 Hardware and software design"
@@ -4118,6 +4232,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 1.4 Intellectual Property management and utilization"
@@ -4140,6 +4257,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 5.1 Benchmark"
@@ -4162,6 +4282,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 4.1 Specifications"
@@ -4184,6 +4307,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 10.3 Transfer learning and new fundamental insights"
@@ -4195,6 +4321,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 8.2 Creation of working groups and workflow"
@@ -4206,6 +4335,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 11.4 Uncertainty-guided spatio-temporal models"
@@ -4217,6 +4349,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 10.4 Automatic reasoning and materials funnel"
@@ -4228,6 +4363,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 8.3 Implementation of these standards and protocols"
@@ -4250,6 +4388,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 3.2 Verification and Validation of Scale-Bridging Protocols for SEI/CEI formation"
@@ -4272,6 +4413,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 9.5 Integration of automated experiments and automated simulations"
@@ -4283,6 +4427,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 6.2 Formulation and characterization of advanced electrolyte components for the HTS assays"
@@ -4294,6 +4441,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 1.2 Participation in the Future Battery Technologies initiative and collaboration with other LC-BAT projects"
@@ -4305,6 +4455,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 11.3 Hierarchical latent space multi-scale models"
@@ -4316,6 +4469,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 5.3 Data acquisition and visualization"
@@ -4327,6 +4483,9 @@
                 "owl:NamedIndividual",
                 "https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245"
             ],
+            "eurio:isDivisionOf": {
+                "@id": "https://graph.big-map.edu/project#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"
+            },
             "skos:prefLabel": {
                 "@language": "en",
                 "@value": "Task 11.1 Integration of multi-fidelity data from all domains"
