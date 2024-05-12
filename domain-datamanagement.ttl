@@ -27,12 +27,14 @@
 
 ###  https://w3id.org/emmo/domain/datamanagement#datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b
 :datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b rdf:type owl:Class ;
+                                                     rdfs:subClassOf <http://data.europa.eu/s66#ProjectDivision> ;
                                                      rdfs:comment "part of a project grouping tasks under a common theme or objective"@en ;
                                                      <http://www.w3.org/2004/02/skos/core#prefLabel> "WorkPackage"@en .
 
 
 ###  https://w3id.org/emmo/domain/datamanagement#datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245
 :datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 rdf:type owl:Class ;
+                                                     rdfs:subClassOf <http://data.europa.eu/s66#ProjectDivision> ;
                                                      rdfs:comment "part of a project work package that is responsible for completing a defined research activity"@en ;
                                                      <http://www.w3.org/2004/02/skos/core#prefLabel> "ProjectTask"@en .
 
