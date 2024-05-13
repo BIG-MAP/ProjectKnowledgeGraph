@@ -457,7 +457,8 @@ bigmap:bigmap_94526240_5e05_40e2_8461_a1cdb77d2018 a eurio:Result,
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd1.png?h=461&w=600&hash=3C91C56F967154C5EAE2742C9906A48D"^^xsd:anyURI ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd1_icon.png> ;
     schema:video bigmap:bigmap_20b0fbbe_0f13_4a72_b953_3f0d6c7c8237 ;
-    skos:altLabel "KD1" .
+    skos:altLabel "KD1" ;
+    skos:prefLabel "KD1" .
 
 bigmap:bigmap_9affbba5_d231_4976_af6e_c6d4796c2f76 a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
