@@ -175,7 +175,7 @@ bigmap:bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e a eurio:Result,
     eurio:title "Demonstration of uncertainty-guided hybrid physics and deep-learning battery model" ;
     eurio:url "https://www.big-map.eu/key-findings/kd11"^^xsd:anyURI ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd11.png?h=293&w=692&hash=A683C313C65054269FF96ACB5DFE3800"^^xsd:anyURI ;
-    schema:logo "https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd11_icon.png" ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd11_icon.png> ;
     skos:altLabel "KD11" .
 
 bigmap:bigmap_1addb028_8e20_4c4e_bdd7_62e35a79e56b a owl:NamedIndividual,
