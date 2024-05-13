@@ -253,7 +253,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         By only needing annotation for a fraction of the data and providing a suggestion for the segmentation, we can greatly reduce the time needed to annotate electrode microstructures, accelerating research and gaining new insights into how the geometric structure and microstructure of the electrode influence its behavior and are influenced by, e.g., cycling.\r
         """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Demonstration of uncertainty-guided hybrid physics and deep-learning battery model" ;
@@ -904,7 +905,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         BattINFO is defined as part of the larger Elementary Multi-Perspective Materials Ontology (EMMO) and is scheduled for release in conjunction with the first stable release of EMMO. The release of BattINFO fulfils one of the 12 key demonstrators defined for the BIG-MAP project, namely “Development of a community-wide European Battery Interface Ontology”.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Development of a community-wide European Battery Interface Ontology" ;
@@ -924,7 +926,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         Furthermore, the benefits of modular robotic platforms extend beyond battery research. The methods developed by BIG-MAP are transferrable to a wide range of scientific experiments, promising a broad and impactful reach.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Demonstration of Autonomous Synthesis Robotics of protective electrode coatings" ;
@@ -1055,7 +1058,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         Through a multi-stage screening pipeline, this HT experimental workflow facilitates identification of hit/lead electrolyte formulations for targeted cell chemistry applications, accompanied by the generation of abundant pertinent data across the entire lifetime of the battery. Having verified the ability to exceed throughput and integrate into existing high-throughput material discovery pipelines for liquid electrolyte formulation studies, the module aims to demonstrate its extensibility by adapting sub-modules to other electrolyte classes and opening up the established methodology to other research categories of interest.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "HTS SEI Demonstrator using integrated high-throughput electrochemistry and ex situ high throughput spectroscopy to optimized electrolyte formulations and materials" ;
@@ -1128,7 +1132,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         The impact of such a notebook goes beyond the BIG-MAP project as it now serves as a template to share electrochemical data across different BATTERY 2030+ projects and eventually it will be open for the entire battery community.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "An Open European Platform with BIG-MAP standards & testing protocols for battery materials" ;
@@ -1228,7 +1233,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         BIG-MAP is making an important step toward multiscale correlative characterization, setting the foundations for automated workflow-constructors available through ontology-based applications.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Multi-modal Characterization Demonstrator capable of running coordinated multi-technique experiments to acquire multi-scale/multi-fidelity data" ;
@@ -1259,7 +1265,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         More recently, we have been working to simplify the protocol to generate force fields and in particular to make it easier to start doing molecular dynamics even before new training is attempted. This is done with so-called 'foundation models', trained to a large variety of structures, not specific to any application. The animation below (created by Cas van der Oord) shows the first attempt, using a model trained only on the inorganic crystal structures of the Materials Project, doing stable molecular dynamics of the interface between graphite and LP57. The system size is still small, and nothing terribly interesting happens in these few hundred picoseconds, but that this level of extrapolation from crystals to organic liquid interfaces is a huge milestone for model building. To help appreciate this, the next video is a reel of some of the crystal structures in the training set of the model.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "QML Demonstrator of an interface potential for an experimental electrode-electrolyte system" ;
@@ -1381,7 +1388,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         An upgraded version of the pump and valve system of the setup for the Autonomous Synthesis and Analysis of Battery electrolytes experimental (ASAB) tenant, which served as the experimental tenant in the FINALES demonstration.\r
         """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Automated Workflow Demonstrator for integrated simulations and experiments" ;
@@ -1453,7 +1461,8 @@ ns1:prefLabel a owl:AnnotationProperty .
 \r
         Outsourcing spectral analysis to neural networks. Alternatively, we can automate the extraction of patterns from spectra using Convolutional Neural Networks (CNN). Instead of modelling a spectrum as a set of peaks, we leave a CNN to learn spectral patterns from large amounts of data, without heuristic assumptions in an autonomous way. These neural networks have been used to classify spectra into groups (e.g. which spectra characterize a species of bacteria), and to map spectra to the value of numerical properties (e.g. quantify the concentration of a chemical from its spectrum). However, what is the network learning from the data to make predictions? Is it using peaks and their positions as spectroscopists do? Is it learning spurious artifacts? We answered such critical questions by developing a CNN that learns to classify functional groups from infrared spectra. Our model classifies most functional groups with accuracies above 95%. Once we have verified that the CNN is accurate, we use a two-step approach for explaining the network's classification process, and so assess whether it is learning patterns that carry physical information. Our findings not only demonstrate that the CNN learns the characteristic group frequencies of functional groups, but also suggest that, unlike most spectroscopist, it also uses the absence of peaks and anharmonic vibrations to make predictions.3,4 CNNs help us learn spectrum-property relations from large number of spectra. Crucially, understanding what neural networks learn from data is instrumental to assess their ability to generalize, to study how the patterns built upon existing scientific principles, and to justify critical decisions based on model predictions.\r
         """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Modular packages for autonomous analysis of spectroscopic and electrochemical data" ;
@@ -1755,7 +1764,8 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
 \r
         This approach to multi-scale scale-bridging transcends the boundaries of the BIG-MAP project. It serves as an essential component and template, to streamline in-silico battery research, to facility materials acceleration platforms and also enables the broader participation of the entire battery community.\r
     """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "AI-enhanced multi-scale demonstrator for accelerated scale-bridging" ;
@@ -1947,7 +1957,8 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
 \r
         The App Store is a valuable resource for anyone interested in battery innovation, whether they are researchers, students, educators, or enthusiasts. By providing a central hub for all the BIG-MAP apps, it facilitates the dissemination and adoption of the latest tools and methods for battery research.\r
         """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Development of a BIG-MAP App-store for automated analysis modules and workflows" ;
@@ -2025,7 +2036,8 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
 \r
         We investigated electrolyte systems involving NaPF6 and Mg(ClO4)2 in EC/EMC = 3:7 (LP57), extending beyond Li-ion batteries with LiPF6 electrolytes. While LiPF6 offers high conductivity and stability, challenges like moisture susceptibility persist. Recent research suggests improving LiPF6 electrolytes with specific solvents and co-solvents. Understanding LiPF6 in solvents, including metal cation solvation properties, is crucial for optimizing battery performance and exploring alternative electrolytes, applicable to Na and Mg batteries as well. Atomic-scale simulations via ab initio molecular dynamics (AIMD) explored solvation properties of Li, Na, and Mg cations, aiding insights into cation diffusion within electrolytes. Simulation results revealed distinct solvation structures for LiPF6, NaPF6, and Mg(ClO4)2 electrolytes, with stable trajectories providing insights into cation-solvent interactions.\r
         """ ;
-    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ;
+    eurio:isResultOf <https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf> ,
+        <https://w3id.org/big-map/resource#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3> ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Transferability demonstrated for Li-ion hybrid models to novel battery chemistries" ;
