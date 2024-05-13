@@ -2021,6 +2021,7 @@ bigmap:bigmap_f01bcfc1_a8ab_3412_a244_3a8ffa6c7579 a eurio:OrganisationRole,
 
 bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp1_icon.png> ;
     skos:altLabel "WP1" ;
     skos:prefLabel "WP1 Project management and education, exploitation and outreach"@en .
 
@@ -2178,51 +2179,61 @@ bigmap:bigmap_fc316fc4_8181_3cc6_8688_6f9ad07847dc a eurio:OrganisationRole,
 
 bigmap:bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp8_icon.png> ;
     skos:altLabel "WP8" ;
     skos:prefLabel "WP8 Standards and Protocols"@en .
 
 bigmap:bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp3_icon.png> ;
     skos:altLabel "WP3" ;
     skos:prefLabel "WP3 Multiscale Modelling"@en .
 
 bigmap:bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp6_icon.png> ;
     skos:altLabel "WP6" ;
     skos:prefLabel "WP6 HTS and Testing"@en .
 
 bigmap:bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp10_icon.png> ;
     skos:altLabel "WP10" ;
     skos:prefLabel "WP10 AI Accelerated Materials Discovery"@en .
 
 bigmap:bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp2_icon.png> ;
     skos:altLabel "WP2" ;
     skos:prefLabel "WP2 Accelerated atomic-scale simulations"@en .
 
 bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp5_icon.png> ;
     skos:altLabel "WP5" ;
     skos:prefLabel "WP5 Characterisation"@en .
 
 bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp7_icon.png> ;
     skos:altLabel "WP7" ;
     skos:prefLabel "WP7 Battery Interface Ontology"@en .
 
 bigmap:bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp9_icon.png> ;
     skos:altLabel "WP9" ;
     skos:prefLabel "WP9 Infrastructure and Interoperability"@en .
 
 bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp4_icon.png> ;
     skos:altLabel "WP4" ;
     skos:prefLabel "WP4 Modular Robotics and Syntheses"@en .
 
 bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp11_icon.png> ;
     skos:altLabel "WP11" ;
     skos:prefLabel "WP11 Battery Interface Genome"@en .
 
