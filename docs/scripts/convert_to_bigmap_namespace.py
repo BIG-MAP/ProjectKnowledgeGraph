@@ -2,28 +2,35 @@ import rdflib
 import os
 
 def update_iri(graph, namespaces_to_update, new_namespace_base):
+    triples_to_add = []
+    triples_to_remove = []
+
     # Iterate over all triples in the graph
-    for s, p, o in list(graph):
-        # Check if the subject's namespace is in the list of namespaces to update
+    for s, p, o in graph:
         if isinstance(s, rdflib.URIRef) and any(s.startswith(ns) for ns in namespaces_to_update):
-            # Extract the unique part of the old IRI
             unique_id = s.split('/')[-1]
-            # Create the new IRI
             new_iri = rdflib.URIRef(f"{new_namespace_base}{unique_id}")
-            # Add the owl:EquivalentTo relation
-            graph.add((new_iri, rdflib.OWL.equivalentClass, s))
-            # Remove the old triple and add the new triple
-            graph.remove((s, p, o))
-            graph.add((new_iri, p, o))
+            triples_to_add.append((new_iri, rdflib.OWL.equivalentClass, s))
+            for (s2, p2, o2) in graph.triples((s, None, None)):
+                triples_to_add.append((new_iri, p2, o2))
+                triples_to_remove.append((s2, p2, o2))
+        if isinstance(o, rdflib.URIRef) and any(o.startswith(ns) for ns in namespaces_to_update):
+            if p != rdflib.OWL.equivalentClass:
+                unique_id = o.split('/')[-1]
+                new_iri = rdflib.URIRef(f"{new_namespace_base}{unique_id}")
+                triples_to_add.append((s, p, new_iri))
+                triples_to_remove.append((s, p, o))
+
+    # Apply the changes to the graph
+    for triple in triples_to_remove:
+        graph.remove(triple)
+    for triple in triples_to_add:
+        graph.add(triple)
 
 def update_ttl_file(input_file, output_file):
-    # Create a Graph object
     g = rdflib.Graph()
-
-    # Parse the TTL file
     g.parse(input_file, format="turtle")
 
-    # Define namespaces to update
     namespaces_to_update = [
         "http://data.europa.eu/s66/resource/results/",
         "http://data.europa.eu/8mn/euroscivoc/",
@@ -34,13 +41,9 @@ def update_ttl_file(input_file, output_file):
         "http://data.europa.eu/s66/resource/monetaryamounts/"
     ]
     
-    # Define the new namespace base
     new_namespace_base = "https://w3id.org/big-map/public/resource#bigmap_"
-
-    # Update IRIs
     update_iri(g, namespaces_to_update, new_namespace_base)
 
-    # Serialize the updated graph to a new TTL file
     g.serialize(destination=output_file, format="turtle")
 
 if __name__ == "__main__":

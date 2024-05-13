@@ -2,16 +2,6 @@
     {
         "@context": "http://schema.org",
         "@type": "Person",
-        "name": "A.A. Franco",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0003-1964-7384"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
         "name": "Abbos Shodiev",
         "identifier": {
             "@type": "PropertyValue",
@@ -33,6 +23,7 @@
         "@context": "http://schema.org",
         "@type": "Person",
         "name": "Alejandro A. Franco",
+        "alternativeName": "A.A. Franco",
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
@@ -312,27 +303,8 @@
     {
         "@context": "http://schema.org",
         "@type": "Person",
-        "name": "Helge S. Stein",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0002-3461-0232"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
-        "name": "Helge Stein",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0002-5825-2679"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
         "name": "Helge Sören Stein",
+        "alternativeName": ["Helge Stein", "Helge S. Stein"],
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
@@ -382,17 +354,8 @@
     {
         "@context": "http://schema.org",
         "@type": "Person",
-        "name": "Ivano E. Castelli",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0001-5880-5045"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
         "name": "Ivano Eligio Castelli",
+        "alternativeName": "Ivano E. Castelli",
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
@@ -662,37 +625,8 @@
     {
         "@context": "http://schema.org",
         "@type": "Person",
-        "name": "M. Duquesnoy",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0003-3070-4589"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
-        "name": "M. Morcrette",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0002-4240-8472"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
-        "name": "M.L. de Souza",
-        "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0003-1886-3878"
-        }
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
         "name": "Marc Duquesnoy",
+        "alternativeName": "M. Duquesnoy",
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
@@ -713,6 +647,7 @@
         "@context": "http://schema.org",
         "@type": "Person",
         "name": "Matheus Leal De Souza",
+        "alternativeName": "M.L. de Souza",
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
@@ -723,6 +658,7 @@
         "@context": "http://schema.org",
         "@type": "Person",
         "name": "Mathieu Morcrette",
+        "alternativeName": "M. Morcrette",
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
@@ -966,7 +902,7 @@
         "identifier": {
             "@type": "PropertyValue",
             "propertyID": "ORCID",
-            "value": "https://orcid.org/0000-0002-7488-3438"
+            "value": "https://orcid.org/0000-0002-8758-6109"
         }
     },
     {
