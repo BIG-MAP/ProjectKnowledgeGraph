@@ -175,7 +175,9 @@ bigmap:bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e a eurio:Result,
     eurio:title "Demonstration of uncertainty-guided hybrid physics and deep-learning battery model" ;
     eurio:url "https://www.big-map.eu/key-findings/kd11"^^xsd:anyURI ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd11.png?h=293&w=692&hash=A683C313C65054269FF96ACB5DFE3800"^^xsd:anyURI ;
-    skos:altLabel "KD11" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd11_icon.png> ;
+    skos:altLabel "KD11" ;
+    skos:prefLabel "KD11" .
 
 bigmap:bigmap_1addb028_8e20_4c4e_bdd7_62e35a79e56b a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -278,7 +280,9 @@ bigmap:bigmap_66642d47_58c4_4241_ab06_030feffa0aaf a eurio:Result,
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Development of a community-wide European Battery Interface Ontology" ;
     eurio:url "https://www.big-map.eu/key-findings/battinfo"^^xsd:anyURI ;
-    skos:altLabel "KD6" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd6_icon.png> ;
+    skos:altLabel "KD6" ;
+    skos:prefLabel "KD6" .
 
 bigmap:bigmap_66db2cb6_df8f_4e27_9aa2_6a0062344568 a eurio:Result,
         owl:NamedIndividual ;
@@ -300,9 +304,11 @@ bigmap:bigmap_66db2cb6_df8f_4e27_9aa2_6a0062344568 a eurio:Result,
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Demonstration of Autonomous Synthesis Robotics of protective electrode coatings" ;
     eurio:url "https://www.big-map.eu/key-findings/modular-robotic-synthesis-platform"^^xsd:anyURI ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd3_icon.png> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/robotic.png?h=309&w=650&hash=FC29E48E398CAA30F2B360BBEE522646"^^xsd:anyURI ;
     schema:video bigmap:bigmap_201e31ee_7090_4ca4_9f86_b41b2ce2566b ;
-    skos:altLabel "KD3" .
+    skos:altLabel "KD3" ;
+    skos:prefLabel "KD3" .
 
 bigmap:bigmap_686fe33a_ba34_4bfa_87a1_01e8112612eb a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -358,7 +364,9 @@ bigmap:bigmap_7c99c738_c7b7_4297_894e_38ed5ae83b50 a eurio:Result,
     eurio:title "HTS SEI Demonstrator using integrated high-throughput electrochemistry and ex situ high throughput spectroscopy to optimized electrolyte formulations and materials" ;
     eurio:url "https://www.big-map.eu/key-findings/high-throughput-experimentation-module"^^xsd:anyURI ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd_isidora.png?h=273&w=700&hash=76DB91E170E984B68AD3BC3AFF428976"^^xsd:anyURI ;
-    skos:altLabel "KD5" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd5_icon.png> ;
+    skos:altLabel "KD5" ;
+    skos:prefLabel "KD5" .
 
 bigmap:bigmap_7d9ff7dc_25b0_448d_8e8d_8faf2ff06a6a a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -392,7 +400,9 @@ bigmap:bigmap_8866787e_893b_4430_af03_8b21c9a63449 a eurio:Result,
     eurio:url "https://www.big-map.eu/key-findings/big-map-notebook"^^xsd:anyURI ;
     schema:citation <https://doi.org/10.1002/batt.202000288> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/notebook.png?h=166&w=399&hash=27C4A87B798BA6A4A810D227FE1F2370"^^xsd:anyURI ;
-    skos:altLabel "KD7" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd7_icon.png> ;
+    skos:altLabel "KD7" ;
+    skos:prefLabel "KD7" .
 
 bigmap:bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -423,7 +433,9 @@ bigmap:bigmap_9338cde6_8924_4d7e_a02d_2d3e0701a7ac a eurio:Result,
     eurio:title "Multi-modal Characterization Demonstrator capable of running coordinated multi-technique experiments to acquire multi-scale/multi-fidelity data" ;
     eurio:url "https://www.big-map.eu/key-findings/multimodal-characterization-platform"^^xsd:anyURI ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/multimodal.png?h=366&w=650&hash=E186A78846419E32EECCFB3486265CFC"^^xsd:anyURI ;
-    skos:altLabel "KD4" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd4_icon.png> ;
+    skos:altLabel "KD4" ;
+    skos:prefLabel "KD4" .
 
 bigmap:bigmap_94526240_5e05_40e2_8461_a1cdb77d2018 a eurio:Result,
         owl:NamedIndividual ;
@@ -443,6 +455,7 @@ bigmap:bigmap_94526240_5e05_40e2_8461_a1cdb77d2018 a eurio:Result,
     eurio:url "https://www.big-map.eu/key-findings/atomistic-simulation-of-battery-components-with-machine-learning-force-fields"^^xsd:anyURI ;
     schema:citation <https://doi.org/10.5281/zenodo.8043753> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd1.png?h=461&w=600&hash=3C91C56F967154C5EAE2742C9906A48D"^^xsd:anyURI ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd1_icon.png> ;
     schema:video bigmap:bigmap_20b0fbbe_0f13_4a72_b953_3f0d6c7c8237 ;
     skos:altLabel "KD1" .
 
@@ -482,7 +495,9 @@ bigmap:bigmap_a46f3676_3bdb_424d_b864_bd933dfeb68c a eurio:Result,
     schema:citation <https://doi.org/10.1016/j.matt.2023.07.016> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd8_1.png?h=308&w=600&hash=F8F5636C5A9DCEE5CA0EC923DD6C7260"^^xsd:anyURI,
         "https://www.big-map.eu/-/media/sites/big-map/highlights/kd8_2.png"^^xsd:anyURI ;
-    skos:altLable "KD8" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd8_icon.png> ;
+    skos:altLable "KD8" ;
+    skos:prefLabel "KD8" .
 
 bigmap:bigmap_a4cc9800_efce_4c94_80dd_fbfcad2f3249 a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -517,7 +532,9 @@ bigmap:bigmap_b08c7a35_bdb7_4aca_83be_77f9554a462b a eurio:Result,
     schema:citation <https://doi.org/10.1002/cmtd.202100094>,
         <https://doi.org/10.1039/D3DD00203A> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/highlights/kd10.png?h=408&w=600&hash=13079F6EBFC23E79712264502A4A33CF"^^xsd:anyURI ;
-    skos:altLabel "KD10" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd10_icon.png> ;
+    skos:altLabel "KD10" ;
+    skos:prefLabel "KD10" .
 
 bigmap:bigmap_b208ac11_38fe_46f5_b7ea_1216294922d8 a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -582,7 +599,9 @@ bigmap:bigmap_cc70b46b_0401_409d_af37_c78685e98f76 a eurio:Result,
         <https://doi.org/10.1039/D3TA06054C>,
         <https://zenodo.org/doi/10.5281/zenodo.6470784> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/kd2_final_image.jpg?h=380&w=700&hash=59505809526B85E66C64A056CD22240F"^^xsd:anyURI ;
-    skos:altLabel "KD2" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd2_icon.png> ;
+    skos:altLabel "KD2" ;
+    skos:prefLabel "KD2" .
 
 bigmap:bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -612,7 +631,9 @@ bigmap:bigmap_dc4aacec_4357_4486_a1bd_18ec894ebed1 a eurio:Result,
     schema:citation <https://doi.org/10.1016/j.matt.2023.07.016> ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/appstore2.png?h=313&w=449&hash=CA948F046358940A1018D86CD66C2F72"^^xsd:anyURI,
         "https://www.big-map.eu/-/media/sites/newsoc/milestones/appstore1.png?h=363&w=400&hash=487472DB2AC0966D617486C72152082B"^^xsd:anyURI ;
-    skos:altLabel "KD9" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd9_icon.png> ;
+    skos:altLabel "KD9" ;
+    skos:prefLabel "KD9" .
 
 bigmap:bigmap_defafbe2_1a0e_4c23_a89f_769a3b695ab5 a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -656,7 +677,9 @@ bigmap:bigmap_e62dc54b_059b_4b72_9f4c_5fe52a2b1740 a eurio:Result,
     eurio:title "Transferability demonstrated for Li-ion hybrid models to novel battery chemistries" ;
     eurio:url "https://www.big-map.eu/key-findings/kd12"^^xsd:anyURI ;
     schema:image "https://www.big-map.eu/-/media/sites/big-map/kd12.png?h=262&w=500&hash=90761FCE4A5C6904E8F707EF81820FF9"^^xsd:anyURI ;
-    skos:altLabel "KD12" .
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kd12_icon.png> ;
+    skos:altLabel "KD12" ;
+    skos:prefLabel "KD12" .
 
 bigmap:bigmap_e6f2d02d_319e_4a50_af13_b845c03088c9 a owl:NamedIndividual,
         data:datamanagement_1ac2d2a5_35d8_48bc_bf3e_5739762cf245 ;
@@ -2430,5 +2453,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:startDate "2020-09-01"^^xsd:date ;
     eurio:title "Battery Interface Genome - Materials Acceleration Platform" ;
     eurio:url "https://cordis.europa.eu/project/rcn/230203/en?format=xml"^^xsd:anyURI ;
-    owl:equivalentClass <http://data.europa.eu/s66/resource/projects/bf15e03c-4a6e-3ed2-8c1c-184014344ebf> .
+    owl:equivalentClass <http://data.europa.eu/s66/resource/projects/bf15e03c-4a6e-3ed2-8c1c-184014344ebf> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/bigmap_icon.png> ;
+    skos:prefLabel "BIG-MAP" .
 
