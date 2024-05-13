@@ -1,0 +1,1132 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "A.A. Franco",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1964-7384"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Abbos Shodiev",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-8035-6001"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Achim Kampker",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0007-7081-1916"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Alejandro A. Franco",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-3987-3314"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Aleksandar Matic",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-4414-9504"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Alexey Sanin",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1796-9224"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Alexis Grimaud",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0003-2117-3779"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Andreas Heuer",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6163-6649"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Andrew A Peterson",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1471-105X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ardita Kilaj",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-9264-5364"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Arghya Bhowmik",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-3198-5116"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Arno Schmetz",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6405-2331"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Aymen Gannouni",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-7102-5307"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Bojing Zhang",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8709-3040"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Chaoyue Liu",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-0653-7872"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Christian Wölke",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-9401-1362"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Christine Kranz",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-0775-799X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Dan Guevarra",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-9592-3195"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Daniel J. Arismendi-Arrieta",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-4917-2466"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "David Kleiven",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2035-3810"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Diddo Diddens",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2137-1332"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Dominik Lemm",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-8075-1765"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Eibar Flores",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-2954-1233"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Felix T. Bölle",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6421-1486"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Fernando Caro",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6590-7250"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Frédéric Le Cras",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-3436-8279"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Fuzhan Rahmanian",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6246-7285"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gil Ho Yoon",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-0634-8329"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Guido Falk von Rudorff",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7987-4330"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hanne Lauritzen",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-4147-6980"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hassan Oularbi",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-3354-4755"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Helge S. Stein",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-3461-0232"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Helge Stein",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-5825-2679"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Helge Sören Stein",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-3461-0232"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Henning Clever",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-3498-8016"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Henning Lorrmann",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-8871-9639"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hongjiao Li",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0003-1897-8365"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Isidora Cekic-Laskovic",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1116-1574"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ivano E. Castelli",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-5880-5045"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ivano Eligio Castelli",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-5880-5045"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jaakko Akola",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-9037-7095"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jackson Flowers",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0009-1906-8463"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jean-Marie Tarascon",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-7059-6845"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jesper Friis",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-1560-809X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jia Wang",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6442-9258"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jianlin Li",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-8710-9847"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jin Hyun Chang",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2050-5108"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jochen Küpper",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-4395-9345"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "John M. Gregoire",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2863-5265"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jonas Busk",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-2502-1679"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Joonyeob Jeon",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-4621-6571"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Juan María García Lastra",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-5311-3656"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Juergen Fleischer",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-8049-1561"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Julia Sawodny",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6910-2473"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karin Vels Hansen",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7169-2102"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karina Ulvskov Frederiksen",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0003-2592-7953"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Kersti Hermansson",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-2352-0458"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Klemen Zelič",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1281-5218"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Konstantin Karandashev",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-0943-3051"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Kristina Edström",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8664-6854"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Laurence J. Hardwick",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8796-685X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Lei Xu",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2752-1573"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Leon Fischer",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8086-4842"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Leon Merker",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8959-3161"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Leszek Nied",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-3877-9809"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Lukas Königer",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2175-224X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "M. Duquesnoy",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-3070-4589"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "M. Morcrette",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-4240-8472"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "M.L. de Souza",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1886-3878"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Marc Duquesnoy",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-3070-4589"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Martin Winter",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1427-3707"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Matheus Leal De Souza",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-0135-6530"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Mathieu Morcrette",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-2215-4847"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Matthias Richter",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6033-203X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Max Schwilk",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6470-1779"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Mehdi Chouchane",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-9140-7951"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Michael Rath",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6662-8464"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Mikkel N. Schmidt",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6927-8869"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Monika Vogler",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8514-5601"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nataliia Mozhzhukhina",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6798-9704"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nicola Marzari",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-9764-0199"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nirmal Choudhary",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0002-1178-8895"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "O. Anatole von Lilienfeld",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7419-0466"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Oier Arcelus",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-9075-3820"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ole Winther",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0006-0697-0747"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Oleg Borodin",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-9428-5291"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Patrik Johansson",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1652-3781"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Patrik Straňák",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7012-6192"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Peng Yan",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-9441-8368"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Peter Bjørn Jørgensen",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-4404-7276"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Pieremanuele Canepa",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-5168-9253"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Poul Norby",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-2590-7050"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Rasmus Andersson",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0004-3511-1445"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Robert Dominko",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-2818-0771"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Robert Ludwigs",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-4088-1845"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sandrine Lyonnard",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-2580-8439"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Simon Clark",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-7488-3438"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Simon Loftager",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-6854-195X"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Stefan Heinen",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0001-7568-8116"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Stefan Willitsch",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-8376-0579"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sven Daboss",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-5193-2196"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Tejs Vegge",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-1484-0284"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Teo Lombardo",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7950-9077"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Tom Hülsmann",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-8389-5521"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Tomaž Katrašnik",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-6954-4936"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Uxía Rivero",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-3398-7433"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Valentin Meunier",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0009-0008-7403-2204"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Vipin Kumar",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0002-5577-1561"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Williams Agyei Appiah",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7187-3501"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Xinyu Li",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-7175-7332"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Youssef Mabrouk",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0001-9407-2782"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Zeyu Deng",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-1181-3683"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Zhi Wei Seh",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "ORCID",
+            "value": "https://orcid.org/0000-0003-0953-567X"
+        }
+    }
+]
