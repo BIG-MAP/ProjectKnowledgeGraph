@@ -485,7 +485,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "17"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cambridge_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/1394d968-2025-3754-8d92-3f0e71d7dee0> .
 
 <https://w3id.org/big-map/public/resource#bigmap_148423d0_20a8_378e_8473_854fb932c59e> a eurio:OrganisationRole,
@@ -499,7 +499,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "28"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/basf_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/148423d0-20a8-378e-8473-854fb932c59e> .
 
 <https://w3id.org/big-map/public/resource#bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59> a owl:NamedIndividual,
@@ -536,7 +536,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "26"^^xsd:int ;
     eurio:roleLabel "thirdParty" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/umicore_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/1b8180be-d82d-39ca-889e-ac50024a4d42> .
 
 <https://w3id.org/big-map/public/resource#bigmap_238ab1fb_7217_4ac7_94c7_d9e8ee2e7bf0> a owl:NamedIndividual,
@@ -588,7 +588,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "15"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cnr_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/2b664aa1-d229-364b-b56c-b44acadf8c4b> .
 
 <https://w3id.org/big-map/public/resource#bigmap_2bd5b4b6_9bf3_34ab_9965_302f24e3a73f> a eurio:JournalPaper,
@@ -651,7 +651,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "2"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/uppsala_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/2ed238e7-1d74-32f3-b144-ec1d3d385266> .
 
 <https://w3id.org/big-map/public/resource#bigmap_2f19922a_497a_4707_9ce0_6701a08a4d98> a owl:NamedIndividual,
@@ -726,7 +726,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "27"^^xsd:int ;
     eurio:roleLabel "thirdParty" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/rhodia_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/37611591-909e-3c18-83c3-a97e9d8d0b22> .
 
 <https://w3id.org/big-map/public/resource#bigmap_37e97105_36ad_3327_890d_c6a44103598e> a eurio:OrganisationRole,
@@ -740,7 +740,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "34"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/saft_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/37e97105-36ad-3327-890d-c6a44103598e> .
 
 <https://w3id.org/big-map/public/resource#bigmap_38d7967b_f491_3c45_92cd_818bce7f68de> a eurio:OrganisationRole,
@@ -754,7 +754,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "35"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wien_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/38d7967b-f491-3c45-92cd-818bce7f68de> .
 
 <https://w3id.org/big-map/public/resource#bigmap_39d843f7_61f9_3f38_9f43_9d13d46c99ac> a eurio:OrganisationRole,
@@ -768,7 +768,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "1"^^xsd:int ;
     eurio:roleLabel "coordinator" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/dtu_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/39d843f7-61f9-3f38-9f43-9d13d46c99ac> .
 
 <https://w3id.org/big-map/public/resource#bigmap_3a1f654d_56d1_3bca_8533_405d7faf304b> a eurio:MonetaryAmount,
@@ -812,7 +812,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "22"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ill_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/3aad9820-8cb0-3c1d-b008-cc8862a8223d> .
 
 <https://w3id.org/big-map/public/resource#bigmap_3b4e5a4a_6bd2_3ca0_b21e_07ae931d5a37> a eurio:JournalPaper,
@@ -856,7 +856,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "4"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cnrs_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/416b198d-3736-3b0f-9336-a99131d13d1d> .
 
 <https://w3id.org/big-map/public/resource#bigmap_420a1a5e_853c_3987_af19_a5a79f6fbca2> a eurio:Grant ;
@@ -974,7 +974,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "7"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ki_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/46b5234b-9b49-30ea-b058-b38bf9935454> .
 
 <https://w3id.org/big-map/public/resource#bigmap_4def35f9_619c_3a64_9f72_ca8b48bc207d> a eurio:JournalPaper,
@@ -1018,7 +1018,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "27"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/solvay_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/51e0aa0a-43e3-3a2a-84f6-8a8389fb6979> .
 
 <https://w3id.org/big-map/public/resource#bigmap_54b4c68c_0656_4d86_b7ce_e9274d600bbd> a owl:NamedIndividual,
@@ -1076,7 +1076,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "10"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/fraunhofer_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/58e96e56-252c-3480-b57f-14955d7a3f9e> .
 
 <https://w3id.org/big-map/public/resource#bigmap_5c4e89a4_9e77_48a5_877a_17b00049baa2> a owl:NamedIndividual,
@@ -1196,7 +1196,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "16"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/epfl_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/6d6921d0-b70d-3e26-b672-aac9fe03381e> .
 
 <https://w3id.org/big-map/public/resource#bigmap_6dae56e9_9449_4577_9698_8f96c306fbc3> a owl:NamedIndividual,
@@ -1220,7 +1220,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "21"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/esrf_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/6fba6522-8c28-32d0-93d5-4ee871987c4d> .
 
 <https://w3id.org/big-map/public/resource#bigmap_7261e552_6513_3f64_b919_10896d57925c> a eurio:OrganisationRole,
@@ -1234,7 +1234,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "20"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/liverpool_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/7261e552-6513-3f64-b919-10896d57925c> .
 
 <https://w3id.org/big-map/public/resource#bigmap_7304d2cc_b9f5_4efc_9e6f_fa70143f87ac> a owl:NamedIndividual,
@@ -1296,7 +1296,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "19"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/tartu_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/882b2b6e-bdec-32fb-b91c-a81a3c0de9d7> .
 
 <https://w3id.org/big-map/public/resource#bigmap_88b33ebf_69d7_3a5f_9dfa_87c083fe2a7e> a eurio:OrganisationRole,
@@ -1310,7 +1310,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "6"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cea_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/88b33ebf-69d7-3a5f-9dfa-87c083fe2a7e> .
 
 <https://w3id.org/big-map/public/resource#bigmap_892c9b07_457d_3cb9_8db5_2132c2678a5f> a eurio:OrganisationRole,
@@ -1324,7 +1324,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "31"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/itu_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/892c9b07-457d-3cb9-8db5-2132c2678a5f> .
 
 <https://w3id.org/big-map/public/resource#bigmap_896bcdd1_a2dc_3d20_8438_f9e4fd4446da> a eurio:OrganisationRole,
@@ -1338,7 +1338,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "4"^^xsd:int ;
     eurio:roleLabel "thirdParty" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/upjv_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/896bcdd1-a2dc-3d20-8438-f9e4fd4446da> .
 
 <https://w3id.org/big-map/public/resource#bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f> a owl:NamedIndividual,
@@ -1357,7 +1357,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "30"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/unibasel_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/8ff2888f-ccd3-384a-879b-6ec7747b218c> .
 
 <https://w3id.org/big-map/public/resource#bigmap_9043fcbd_f41c_48a4_ae5d_e53caf11c9fb> a owl:NamedIndividual,
@@ -1376,7 +1376,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "26"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/umicore_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/92ab9afc-8d68-33a0-86a1-5a4b8f9203fc> .
 
 <https://w3id.org/big-map/public/resource#bigmap_93f24b16_09c1_31f8_a413_897527554e50> a eurio:OrganisationRole,
@@ -1390,7 +1390,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "3"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kit_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/93f24b16-09c1-31f8-a413-897527554e50> .
 
 <https://w3id.org/big-map/public/resource#bigmap_94993bd9_dfb3_3fc6_957a_bdfaede80c32> a eurio:JournalPaper,
@@ -1424,7 +1424,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "13"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/csic_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/9569edbd-3444-31e7-b6e8-f4f21c359b2f> .
 
 <https://w3id.org/big-map/public/resource#bigmap_9943952d_b401_3659_b11e_c7d8dd3ae6ec> a eurio:JournalPaper,
@@ -1456,7 +1456,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "5"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wwu_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/99ae1129-de2a-35cc-afdb-a9e45b5294a1> .
 
 <https://w3id.org/big-map/public/resource#bigmap_9affbba5_d231_4976_af6e_c6d4796c2f76> a owl:NamedIndividual,
@@ -1586,7 +1586,7 @@ ns1:prefLabel a owl:AnnotationProperty .
     eurio:order "23"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/soleil_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/ba790896-89c0-3196-a9fa-adba4ef9a3ab> .
 
 <https://w3id.org/big-map/public/resource#bigmap_bc931a39_21cd_30e5_a0aa_2e5d18aacb25> a eurio:ProjectDeliverable,
@@ -1925,7 +1925,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "11"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/chalmers_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/d3f32e7d-cfa6-3f03-9b0f-a34765a7aceb> .
 
 <https://w3id.org/big-map/public/resource#bigmap_d4ddce50_0ee8_35d7_9e3c_8d89424116d2> a eurio:OrganisationRole,
@@ -1939,7 +1939,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "29"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/northvolt_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/d4ddce50-0ee8-35d7-9e3c-8d89424116d2> .
 
 <https://w3id.org/big-map/public/resource#bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a> a owl:NamedIndividual,
@@ -2027,7 +2027,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "8"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/sintef_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/e19a26de-7fb1-3565-bc71-419147625560> .
 
 <https://w3id.org/big-map/public/resource#bigmap_e448e08a_7114_4020_884b_d4df0b7b22c2> a owl:NamedIndividual,
@@ -2056,7 +2056,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "24"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cidetec_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/e6828054-2abc-3285-ae50-a049b4b799c5> .
 
 <https://w3id.org/big-map/public/resource#bigmap_e6f2d02d_319e_4a50_af13_b845c03088c9> a owl:NamedIndividual,
@@ -2075,7 +2075,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "32"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/3ds_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/e6fb8c19-23c5-371e-bcc6-c20828731550> .
 
 <https://w3id.org/big-map/public/resource#bigmap_e9093abc_7581_32d9_ac06_c03d1332cadb> a eurio:JournalPaper,
@@ -2186,7 +2186,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "9"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/polito_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/ef057362-da87-3c9d-9691-5167797f30c1> .
 
 <https://w3id.org/big-map/public/resource#bigmap_f01bcfc1_a8ab_3412_a244_3a8ffa6c7579> a eurio:OrganisationRole,
@@ -2200,7 +2200,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "18"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/oxford_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/f01bcfc1-a8ab-3412-a244-3a8ffa6c7579> .
 
 <https://w3id.org/big-map/public/resource#bigmap_f688c719_b99d_4140_874b_574380f66398> a owl:NamedIndividual,
@@ -2237,7 +2237,7 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     eurio:order "25"^^xsd:int ;
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
-    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ICON.png> ;
+    schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/emiri_icon.png> ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/fc316fc4-8181-3cc6-8688-6f9ad07847dc> .
 
 <https://w3id.org/big-map/public/resource#bigmap_fef519db_ad18_34a7_8474_645462d6b720> a eurio:JournalPaper,

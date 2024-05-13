@@ -1,0 +1,31 @@
+import re
+import os
+
+def replace_dashes_in_iri(iri):
+    """
+    Replace dashes with underscores in the UUID part of the IRI if it belongs to the big-map namespace.
+    """
+    if "w3id.org/big-map" in iri:
+        pattern = re.compile(r'(bigmap_[0-9a-fA-F]{8})-([0-9a-fA-F]{4})-([0-9a-fA-F]{4})-([0-9a-fA-F]{4})-([0-9a-fA-F]{12})')
+        new_iri = re.sub(pattern, r'\1_\2_\3_\4_\5', iri)
+        return new_iri
+    return iri
+
+def process_ttl_file(input_file, output_file):
+    """
+    Read a TTL file, replace dashes with underscores in big-map namespace IRIs, and write to a new TTL file.
+    """
+    with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
+        for line in infile:
+            modified_line = replace_dashes_in_iri(line)
+            outfile.write(modified_line)
+
+# File paths
+# Define the paths to your TTL files
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
+input_file = os.path.join(repo_root, "bigmap.ttl")
+output_file = os.path.join(repo_root, "bigmap_modified.ttl")
+
+# Process the TTL file
+process_ttl_file(input_file, output_file)
