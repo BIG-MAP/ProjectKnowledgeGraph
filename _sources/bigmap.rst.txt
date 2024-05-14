@@ -1,0 +1,1254 @@
+
+===========
+Class Index
+===========
+
+BIG-MAP Resources
+=================
+
+.. raw:: html
+
+   <div id="bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf"></div>
+
+BIG-MAP
+-------
+
+* https://w3id.org/big-map/resource#bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_94526240_5e05_40e2_8461_a1cdb77d2018"></div>
+
+KD1
+---
+
+* https://w3id.org/big-map/resource#bigmap_94526240_5e05_40e2_8461_a1cdb77d2018
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD1</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_b08c7a35_bdb7_4aca_83be_77f9554a462b"></div>
+
+KD10
+----
+
+* https://w3id.org/big-map/resource#bigmap_b08c7a35_bdb7_4aca_83be_77f9554a462b
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD10</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e"></div>
+
+KD11
+----
+
+* https://w3id.org/big-map/resource#bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD11</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_e62dc54b_059b_4b72_9f4c_5fe52a2b1740"></div>
+
+KD12
+----
+
+* https://w3id.org/big-map/resource#bigmap_e62dc54b_059b_4b72_9f4c_5fe52a2b1740
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD12</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_cc70b46b_0401_409d_af37_c78685e98f76"></div>
+
+KD2
+---
+
+* https://w3id.org/big-map/resource#bigmap_cc70b46b_0401_409d_af37_c78685e98f76
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD2</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_66db2cb6_df8f_4e27_9aa2_6a0062344568"></div>
+
+KD3
+---
+
+* https://w3id.org/big-map/resource#bigmap_66db2cb6_df8f_4e27_9aa2_6a0062344568
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD3</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_9338cde6_8924_4d7e_a02d_2d3e0701a7ac"></div>
+
+KD4
+---
+
+* https://w3id.org/big-map/resource#bigmap_9338cde6_8924_4d7e_a02d_2d3e0701a7ac
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD4</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_7c99c738_c7b7_4297_894e_38ed5ae83b50"></div>
+
+KD5
+---
+
+* https://w3id.org/big-map/resource#bigmap_7c99c738_c7b7_4297_894e_38ed5ae83b50
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD5</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_66642d47_58c4_4241_ab06_030feffa0aaf"></div>
+
+KD6
+---
+
+* https://w3id.org/big-map/resource#bigmap_66642d47_58c4_4241_ab06_030feffa0aaf
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD6</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_8866787e_893b_4430_af03_8b21c9a63449"></div>
+
+KD7
+---
+
+* https://w3id.org/big-map/resource#bigmap_8866787e_893b_4430_af03_8b21c9a63449
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD7</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_a46f3676_3bdb_424d_b864_bd933dfeb68c"></div>
+
+KD8
+---
+
+* https://w3id.org/big-map/resource#bigmap_a46f3676_3bdb_424d_b864_bd933dfeb68c
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_dc4aacec_4357_4486_a1bd_18ec894ebed1"></div>
+
+KD9
+---
+
+* https://w3id.org/big-map/resource#bigmap_dc4aacec_4357_4486_a1bd_18ec894ebed1
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">KD9</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_e57865de_7cca_4863_9aa7_ae75ae585b8f"></div>
+
+Task 1.2 Participation in the Future Battery Technologies initiative and collaboration with other LC-BAT projects
+-----------------------------------------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_e57865de_7cca_4863_9aa7_ae75ae585b8f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_3cbf69e5_63f7_441c_913b_cd8476784c9f"></div>
+
+Task 1.3 Research Data Management
+---------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_3cbf69e5_63f7_441c_913b_cd8476784c9f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_b208ac11_38fe_46f5_b7ea_1216294922d8"></div>
+
+Task 1.4 Intellectual Property management and utilization
+---------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_b208ac11_38fe_46f5_b7ea_1216294922d8
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_2fd6bfdc_605d_4399_8ab1_edacae331dd4"></div>
+
+Task 1.5 Development and implementation of an Exploitation Plan
+---------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_2fd6bfdc_605d_4399_8ab1_edacae331dd4
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_9043fcbd_f41c_48a4_ae5d_e53caf11c9fb"></div>
+
+Task 1.6 Stakeholder activities and management
+----------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_9043fcbd_f41c_48a4_ae5d_e53caf11c9fb
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_7d9ff7dc_25b0_448d_8e8d_8faf2ff06a6a"></div>
+
+Task 1.7 Dissemination, outreach and communication
+--------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_7d9ff7dc_25b0_448d_8e8d_8faf2ff06a6a
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_3601b89b_9ed0_4978_bb31_82f6e46778ec"></div>
+
+Task 10.1 Accelerating experiments with active learning
+-------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_3601b89b_9ed0_4978_bb31_82f6e46778ec
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_1addb028_8e20_4c4e_bdd7_62e35a79e56b"></div>
+
+Task 10.2 An automated data analysis framework
+----------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_1addb028_8e20_4c4e_bdd7_62e35a79e56b
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c1b7e4cd_b569_4209_8b3c_8f9011ff1416"></div>
+
+Task 10.3 Transfer learning and new fundamental insights
+--------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_c1b7e4cd_b569_4209_8b3c_8f9011ff1416
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c4b8a772_40ae_4f94_afe2_05405896cbb5"></div>
+
+Task 10.4 Automatic reasoning and materials funnel
+--------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_c4b8a772_40ae_4f94_afe2_05405896cbb5
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_ed7d9a4c_7ab7_4e7c_886e_5fe601773aa6"></div>
+
+Task 11.1 Integration of multi-fidelity data from all domains
+-------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_ed7d9a4c_7ab7_4e7c_886e_5fe601773aa6
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_83bb8087_695b_4b8f_8144_361ea98ce73b"></div>
+
+Task 11.2 Dynamic interface/interphase descriptors
+--------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_83bb8087_695b_4b8f_8144_361ea98ce73b
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_e5bf3d3f_1983_4ab1_9a4c_f87365220ded"></div>
+
+Task 11.3 Hierarchical latent space multi-scale models
+------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_e5bf3d3f_1983_4ab1_9a4c_f87365220ded
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c42daa47_8d84_4487_9df2_e0eefa39b655"></div>
+
+Task 11.4 Uncertainty-guided spatio-temporal models
+---------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_c42daa47_8d84_4487_9df2_e0eefa39b655
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_50e3dff4_791f_4518_8583_71f4336d3a65"></div>
+
+Task 11.5 Transferability of developed methodology to other materials
+---------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_50e3dff4_791f_4518_8583_71f4336d3a65
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_686fe33a_ba34_4bfa_87a1_01e8112612eb"></div>
+
+Task 2.1 Data from QM calculations
+----------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_686fe33a_ba34_4bfa_87a1_01e8112612eb
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_04458deb_87f8_420b_8545_9f4e7cde79cf"></div>
+
+Task 2.2 Train ML potentials
+----------------------------
+
+* https://w3id.org/big-map/resource#bigmap_04458deb_87f8_420b_8545_9f4e7cde79cf
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_6dae56e9_9449_4577_9698_8f96c306fbc3"></div>
+
+Task 2.3 ML in battery compound space
+-------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_6dae56e9_9449_4577_9698_8f96c306fbc3
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_a4cc9800_efce_4c94_80dd_fbfcad2f3249"></div>
+
+Task 2.4 Battery simulations at the atomistic level
+---------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_a4cc9800_efce_4c94_80dd_fbfcad2f3249
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_12d7421b_451f_4a00_baa8_a6d162a915e7"></div>
+
+Task 2.5 Modelling operando spectroscopies and atomistic-level characterization
+-------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_12d7421b_451f_4a00_baa8_a6d162a915e7
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_9f4ee7b1_8cf9_45b9_a015_b20ff435bd36"></div>
+
+Task 3.1 Development and validation of multiscale modelling frameworks
+----------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_9f4ee7b1_8cf9_45b9_a015_b20ff435bd36
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a"></div>
+
+Task 3.2 Verification and Validation of Scale-Bridging Protocols for SEI/CEI formation
+--------------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_5c4e89a4_9e77_48a5_877a_17b00049baa2"></div>
+
+Task 3.3 AI enhanced models
+---------------------------
+
+* https://w3id.org/big-map/resource#bigmap_5c4e89a4_9e77_48a5_877a_17b00049baa2
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_3a9f136e_ba99_4545_8339_c9c57f99aa59"></div>
+
+Task 3.4 Verification and Validation of Models for HTS experiments
+------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_3a9f136e_ba99_4545_8339_c9c57f99aa59
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_54b4c68c_0656_4d86_b7ce_e9274d600bbd"></div>
+
+Task 3.5 Workflow demonstrators
+-------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_54b4c68c_0656_4d86_b7ce_e9274d600bbd
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c1a1d058_c1dc_4188_92da_6ec0461401eb"></div>
+
+Task 4.1 Specifications
+-----------------------
+
+* https://w3id.org/big-map/resource#bigmap_c1a1d058_c1dc_4188_92da_6ec0461401eb
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_a817b3d0_ec14_4461_8021_963835cabbf2"></div>
+
+Task 4.2 Hardware and software design
+-------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_a817b3d0_ec14_4461_8021_963835cabbf2
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_2f19922a_497a_4707_9ce0_6701a08a4d98"></div>
+
+Task 4.3 Integration and validation
+-----------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_2f19922a_497a_4707_9ce0_6701a08a4d98
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_6e09db0c_6b59_4b1e_b5fd_1ef1a38d42f0"></div>
+
+Task 4.4 Synthesis of components for organic protective coatings
+----------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_6e09db0c_6b59_4b1e_b5fd_1ef1a38d42f0
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_11381e8d_1182_4eab_bb7d_ec87d7182053"></div>
+
+Task 4.5 Combinatorial synthesis and application of inorganic coatings
+----------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_11381e8d_1182_4eab_bb7d_ec87d7182053
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_b90b23b3_7925_41f8_9c56_629801a20d21"></div>
+
+Task 5.1 Benchmark
+------------------
+
+* https://w3id.org/big-map/resource#bigmap_b90b23b3_7925_41f8_9c56_629801a20d21
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_3f184710_cf8f_4879_bd82_aba905980aaf"></div>
+
+Task 5.2 Workflow
+-----------------
+
+* https://w3id.org/big-map/resource#bigmap_3f184710_cf8f_4879_bd82_aba905980aaf
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_e6f2d02d_319e_4a50_af13_b845c03088c9"></div>
+
+Task 5.3 Data acquisition and visualization
+-------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_e6f2d02d_319e_4a50_af13_b845c03088c9
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_28eaf875_4075_46ab_aa57_1afdccb34daa"></div>
+
+Task 5.4 Data Analysis
+----------------------
+
+* https://w3id.org/big-map/resource#bigmap_28eaf875_4075_46ab_aa57_1afdccb34daa
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_9affbba5_d231_4976_af6e_c6d4796c2f76"></div>
+
+Task 6.1 Preparation and characterization of feeding units for the HTS assays
+-----------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_9affbba5_d231_4976_af6e_c6d4796c2f76
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_e448e08a_7114_4020_884b_d4df0b7b22c2"></div>
+
+Task 6.2 Formulation and characterization of advanced electrolyte components for the HTS assays
+-----------------------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_e448e08a_7114_4020_884b_d4df0b7b22c2
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_6be34afe_25f6_4c56_a6ed_7c2549effeea"></div>
+
+Task 6.3 HTS analysis via selected methods
+------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_6be34afe_25f6_4c56_a6ed_7c2549effeea
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_23eee855_6804_45ca_8a5d_0dd0be8464a1"></div>
+
+Task 6.4 HTS in electrolyte formulation, cell assembly and filtration measurements
+----------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_23eee855_6804_45ca_8a5d_0dd0be8464a1
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_6b2298af_33c0_4cb6_a4b5_b658b8b6d893"></div>
+
+Task 6.5 HTS of inorganic protective coatings
+---------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_6b2298af_33c0_4cb6_a4b5_b658b8b6d893
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_7304d2cc_b9f5_4efc_9e6f_fa70143f87ac"></div>
+
+Task 7.1 Establish ontology standards to support interoperability and dissemination
+-----------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_7304d2cc_b9f5_4efc_9e6f_fa70143f87ac
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_4fa2e10e_efe2_45ad_b426_217725e1ceda"></div>
+
+Task 7.2 Design a general battery ontology
+------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_4fa2e10e_efe2_45ad_b426_217725e1ceda
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_564a979c_3226_43a7_9db7_7dca715f5f7f"></div>
+
+Task 7.3 Design the battery interface ontology (BIO)
+----------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_564a979c_3226_43a7_9db7_7dca715f5f7f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f"></div>
+
+Task 7.4 Implement the ontology to describe specific case studies
+-----------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_07f83a4c_baae_4da8_87bf_03c7255e9b7f"></div>
+
+Task 8.1 Selection and refinement of pre-existing initiatives regarding standards and protocols
+-----------------------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_07f83a4c_baae_4da8_87bf_03c7255e9b7f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c20bc045_54fb_4ae9_a17a_198956340cbd"></div>
+
+Task 8.2 Creation of working groups and workflow
+------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_c20bc045_54fb_4ae9_a17a_198956340cbd
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c595b1c2_ef6f_494a_85f1_2c8f68028e0f"></div>
+
+Task 8.3 Implementation of these standards and protocols
+--------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_c595b1c2_ef6f_494a_85f1_2c8f68028e0f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_238ab1fb_7217_4ac7_94c7_d9e8ee2e7bf0"></div>
+
+Task 8.4 Organization of European platforms for battery testing
+---------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_238ab1fb_7217_4ac7_94c7_d9e8ee2e7bf0
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_78efbe79_cbbd_4cfe_b5db_9ad6dd5c38e4"></div>
+
+Task 9.1 Robust and reliable workflows for automated simulations
+----------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_78efbe79_cbbd_4cfe_b5db_9ad6dd5c38e4
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_2dd6065d_5fac_400e_a2d1_281d10185b9f"></div>
+
+Task 9.2 Integration of the computational platforms
+---------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_2dd6065d_5fac_400e_a2d1_281d10185b9f
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_129019df_d7bc_498b_861a_2eab12914e54"></div>
+
+Task 9.3 Development of a software framework for data management, linkage and protection
+----------------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_129019df_d7bc_498b_861a_2eab12914e54
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_2af6bfee_7595_4318_9663_d9fd1bf93749"></div>
+
+Task 9.4 Deployment of a cloud platform for automated simulations and data access
+---------------------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_2af6bfee_7595_4318_9663_d9fd1bf93749
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_defafbe2_1a0e_4c23_a89f_769a3b695ab5"></div>
+
+Task 9.5 Integration of automated experiments and automated simulations
+-----------------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_defafbe2_1a0e_4c23_a89f_769a3b695ab5
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_9c8e4459_a2d6_4a91_8446_4584dd357b49"></div>
+
+Task1.1 Administrative and financial management and reporting
+-------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_9c8e4459_a2d6_4a91_8446_4584dd357b49
+
+.. raw:: html
+
+  <table class="element-table">
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59"></div>
+
+WP1 Project management and education, exploitation and outreach
+---------------------------------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP1</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742"></div>
+
+WP10 AI Accelerated Materials Discovery
+---------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP10</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20"></div>
+
+WP11 Battery Interface Genome
+-----------------------------
+
+* https://w3id.org/big-map/resource#bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP11</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83"></div>
+
+WP2 Accelerated atomic-scale simulations
+----------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP2</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed"></div>
+
+WP3 Multiscale Modelling
+------------------------
+
+* https://w3id.org/big-map/resource#bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP3</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed"></div>
+
+WP4 Modular Robotics and Syntheses
+----------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP4</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4"></div>
+
+WP5 Characterisation
+--------------------
+
+* https://w3id.org/big-map/resource#bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP5</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4"></div>
+
+WP6 HTS and Testing
+-------------------
+
+* https://w3id.org/big-map/resource#bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP6</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3"></div>
+
+WP7 Battery Interface Ontology
+------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP7</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3"></div>
+
+WP8 Standards and Protocols
+---------------------------
+
+* https://w3id.org/big-map/resource#bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP8</td>
+  </tr>
+  </table>
+
+
+.. raw:: html
+
+   <div id="bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b"></div>
+
+WP9 Infrastructure and Interoperability
+---------------------------------------
+
+* https://w3id.org/big-map/resource#bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b
+
+.. raw:: html
+
+  <table class="element-table">
+  <tr>
+  <td class="element-table-key"><span class="element-table-key">Alternative Label(s)</span></td>
+  <td class="element-table-value">WP9</td>
+  </tr>
+  </table>
+
+
+
+    
+        
