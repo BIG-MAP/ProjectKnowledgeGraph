@@ -56,10 +56,4 @@ jobs:
           sudo cp "bigmap.ttl" "docs/_build/html/version/$TAG/"
         done
 
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v4
-      with:
-        name: documentationHTML
-        path: docs/_build/html/
-
     # Removed the push and deploy steps as they should not run on PRs to master
