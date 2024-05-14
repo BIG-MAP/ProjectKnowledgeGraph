@@ -91,8 +91,10 @@ def entities_to_rst(entities: list[dict], g: Graph) -> str:
         # Split the IRI to get the suffix which will be used as the anchor
         iri_suffix = item['IRI'].split("#")[-1]
 
+        print(iri_suffix)
+
         # Use the prefLabel for the section header, fallback to IRI suffix if prefLabel is not available
-        prefLabel = item.get('skos:prefLabel', iri_suffix)
+        prefLabel = item.get('http://www.w3.org/2004/02/skos/core#prefLabel', iri_suffix)
 
         rst += f".. _{iri_suffix}:\n\n"  # Anchor using IRI suffix
         rst += prefLabel + "\n"  # Display readable prefLabel as the title
@@ -103,7 +105,7 @@ def entities_to_rst(entities: list[dict], g: Graph) -> str:
         indent = "  "
         rst += indent + "<table class=\"element-table\">\n"
         for key, value in item.items():
-            if key not in ['IRI', 'skos:prefLabel'] and value:  # Exclude 'IRI' and 'prefLabel' to avoid duplication
+            if key not in ['IRI', 'http://www.w3.org/2004/02/skos/core#prefLabel'] and value:  # Exclude 'IRI' and 'prefLabel' to avoid duplication
                 prefixed_key = g.qname(URIRef(key))  # Transform URI to QName
                 rst += indent + "<tr>\n"
                 rst += indent + f"<td class=\"element-table-key\">{prefixed_key}</td>\n"
