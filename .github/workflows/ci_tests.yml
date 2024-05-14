@@ -31,7 +31,7 @@ jobs:
         pip install Markdown==3.4.3 rdflib==6.3.2 pandoc  # Add any other dependencies if needed
         
     - name: Render documentation from ttl
-      run: python docs/ttl_to_rst.py
+      run: python docs/scripts/ttl_to_rst.py
 
     - name: Build HTML
       uses: ammaraskar/sphinx-action@master
