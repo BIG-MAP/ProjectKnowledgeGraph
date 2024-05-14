@@ -1,4 +1,4 @@
-from rdflib import Graph, URIRef, Literal
+from rdflib import Graph
 
 
 
@@ -15,55 +15,46 @@ def load_ttl_from_url(url:str)->Graph:
 
 ########## QUERY TLL ################
 
-def extract_terms_info_sparql(g: Graph) -> list:
-    """
-    Extract all predicates and their corresponding objects for each subject in the graph.
-    """
+def extract_terms_info_sparql(g: Graph)-> list:
+
+    text_entities = []
+
+    # SPARQL QUERY #
     PREFIXES = """
-        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX emmo: <https://w3id.org/emmo#>
         PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-        PREFIX owl: <http://www.w3.org/2002/07/owl#>
         """
-    query = PREFIXES + """
-        SELECT ?subject ?predicate ?object
+
+    list_entity_types = ["IRI", "prefLabel", "Elucidation", "Alternative Label(s)", "IEC Reference", "IUPAC Reference", "Wikipedia Reference", "Wikidata Reference", "Comment", ]
+
+    query =  PREFIXES  + """
+        SELECT ?iri ?prefLabel ?elucidation (GROUP_CONCAT(?altLabel; SEPARATOR=", ") AS ?altLabels) ?iecref ?iupacref ?wikipediaref ?wikidataref ?comment
         WHERE {
-            ?subject ?predicate ?object.
+            ?iri skos:prefLabel ?prefLabel.
+
+            OPTIONAL { ?iri emmo:EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9 ?elucidation . }
+            OPTIONAL { ?iri skos:altLabel ?altLabel . }
+            OPTIONAL { ?iri emmo:EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f ?iecref . }
+            OPTIONAL { ?iri emmo:EMMO_fe015383_afb3_44a6_ae86_043628697aa2 ?iupacref . }
+            OPTIONAL { ?iri emmo:EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d ?wikipediaref . }
+            OPTIONAL { ?iri emmo:EMMO_26bf1bef_d192_4da6_b0eb_d2209698fb54 ?wikidataref . }
+            OPTIONAL { ?iri rdfs:comment ?comment . }
         }
-    """
-    results = g.query(query)
-    
-    entities = {}
-    for row in results:
-        subject = str(row.subject)
-        predicate = str(row.predicate)
-        object = str(row.object)
+
+        GROUP BY ?iri ?prefLabel ?elucidation
+
+        """
         
-        if subject not in entities:
-            entities[subject] = {'IRI': subject, 'properties': {}}
-        
-        # Transform predicate URI to a QName if possible
-        predicate_qname = g.qname(URIRef(predicate))
+    qres = g.query(query)
 
-        # Append or initialize list of objects for each predicate
-        if predicate_qname in entities[subject]['properties']:
-            entities[subject]['properties'][predicate_qname].append(object)
-        else:
-            entities[subject]['properties'][predicate_qname] = [object]
+    for hit in qres:    
+        hit_dict = {entity_type:str(entity) for entity_type, entity in zip(list_entity_types, hit)}
+        text_entities.append(hit_dict)
 
-    # Convert to a list and handle multiple values as strings
-    text_entities = []
-    for subject, data in entities.items():
-        entity_info = {'IRI': data['IRI']}
-        for prop, values in data['properties'].items():
-            # Join multiple values into a single string separated by ", "
-            entity_info[prop] = ", ".join([str(v) for v in values])
-        text_entities.append(entity_info)
-
-    text_entities.sort(key=lambda e: e.get('skos:prefLabel', e['IRI']))
+    text_entities.sort(key=lambda e: e["prefLabel"])
 
     return text_entities
-
 
 
 
@@ -88,21 +79,24 @@ Class Index
 ########## RENDER ENTITIES ################
 
 def entities_to_rst(entities: list[dict]) -> str:
+    
     rst = ""
+
     for item in entities:
-        # Use get() with a default value to avoid KeyError
-        prefLabel = item.get('prefLabel', 'No Label Provided')
-        
-        # Check if '#' is in the IRI, skip if not present or handle differently
+        # Check if '#' is in the IRI
         if '#' not in item['IRI']:
             print(f"Skipping IRI without '#': {item['IRI']}")
-            continue
+            continue  # Skip this entity if no hash is present
 
         iri_prefix, iri_suffix = item['IRI'].split("#")
 
-        rst += ".. _" + iri_suffix + ":\n\n"
-        rst += prefLabel + "\n"
-        rst += "-" * len(prefLabel) + "\n\n"
+        rst += ".. raw:: html\n\n"
+        rst += "   <div id=\"" + iri_suffix + "\"></div>\n\n"
+        
+        rst += item['prefLabel'] + "\n"
+        for ind in range(len(item['prefLabel'])):
+            rst += "-"
+        rst += "\n\n"
 
         rst += "* " + item['IRI'] + "\n\n"
 
@@ -110,18 +104,24 @@ def entities_to_rst(entities: list[dict]) -> str:
         indent = "  "
         rst += indent + "<table class=\"element-table\">\n"
         for key, value in item.items():
-            if key not in ['IRI', 'prefLabel'] and value:  # Check if value is non-empty
+
+            if (key not in ['IRI', 'prefLabel']) & (value != "None") & (value != ""):
+
                 rst += indent + "<tr>\n"
                 rst += indent + "<td class=\"element-table-key\"><span class=\"element-table-key\">" + key + "</span></td>\n"
-                if isinstance(value, str) and value.startswith("http"):
-                    value = f"<a href='{value}'>{value}</a>"
+                if value.startswith("http"):
+                    value = f"""<a href='{value}'>{value}</a>"""
+                else:
+                    value = value.encode('ascii', 'xmlcharrefreplace')
+                    value = value.decode('utf-8')
+                    value = value.replace('\n', '\n' + indent)
                 rst += indent + "<td class=\"element-table-value\">" + value + "</td>\n"
                 rst += indent + "</tr>\n"
                 
-        rst += indent + "</table>\n\n"
+        rst += indent + "</table>\n"
+        rst += "\n\n"
 
     return rst
-
 
 
 ########## RENDER RST BOTTOM ################
