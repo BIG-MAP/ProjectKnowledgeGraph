@@ -91,12 +91,11 @@ def entities_to_rst(entities: list[dict], g: Graph) -> str:
         # Split the IRI to get the suffix which will be used as the anchor
         iri_suffix = item['IRI'].split("#")[-1]
 
-        print(iri_suffix)
-
         # Use the prefLabel for the section header, fallback to IRI suffix if prefLabel is not available
         prefLabel = item.get('http://www.w3.org/2004/02/skos/core#prefLabel', iri_suffix)
 
-        rst += f".. _{iri_suffix}:\n\n"  # Anchor using IRI suffix
+        rst += ".. raw:: html\n\n"
+        rst += "   <div id=\"" + iri_suffix + "\"></div>\n\n"
         rst += prefLabel + "\n"  # Display readable prefLabel as the title
         rst += '-' * len(prefLabel) + "\n\n"
         rst += "* " + item['IRI'] + "\n\n"
