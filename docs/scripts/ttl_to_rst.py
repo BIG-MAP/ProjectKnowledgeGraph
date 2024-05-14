@@ -88,16 +88,14 @@ def entities_to_rst(entities: list[dict], g: Graph) -> str:
             print(f"Skipping IRI without '#': {item['IRI']}")
             continue
 
+        # Split the IRI to get the suffix which will be used as the anchor
         iri_suffix = item['IRI'].split("#")[-1]
 
-        #print(item)
+        # Use the prefLabel for the section header, fallback to IRI suffix if prefLabel is not available
+        prefLabel = item.get('skos:prefLabel', iri_suffix)
 
-        # Attempt to fetch the prefLabel; use the IRI suffix if unavailable
-        # Ensure the key used to access prefLabel matches exactly as stored in the dictionary
-        prefLabel = item.get('http://www.w3.org/2004/02/skos/core#prefLabel', iri_suffix)  # Ensure this key matches how it's stored in item
-
-        rst += ".. _" + iri_suffix + ":\n\n"
-        rst += prefLabel + "\n"
+        rst += f".. _{iri_suffix}:\n\n"  # Anchor using IRI suffix
+        rst += prefLabel + "\n"  # Display readable prefLabel as the title
         rst += '-' * len(prefLabel) + "\n\n"
         rst += "* " + item['IRI'] + "\n\n"
 
@@ -120,6 +118,7 @@ def format_value(value):
     if isinstance(value, str) and value.startswith("http"):
         return f"<a href='{value}'>{value}</a>"
     return str(value)
+
 
 
 
