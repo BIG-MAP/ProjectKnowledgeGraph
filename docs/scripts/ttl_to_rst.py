@@ -34,7 +34,6 @@ def extract_terms_info_sparql(g: Graph) -> list:
     results = g.query(query)
     
     entities = {}
-    # Organize data by subject and collect all predicates and objects
     for row in results:
         subject = str(row.subject)
         predicate = str(row.predicate)
@@ -43,24 +42,28 @@ def extract_terms_info_sparql(g: Graph) -> list:
         if subject not in entities:
             entities[subject] = {'IRI': subject, 'properties': {}}
         
-        # Handle multiple values for the same predicate
-        if predicate in entities[subject]['properties']:
-            entities[subject]['properties'][predicate].append(object)
-        else:
-            entities[subject]['properties'][predicate] = [object]
+        # Transform predicate URI to a QName if possible
+        predicate_qname = g.qname(URIRef(predicate))
 
-    # Convert the dictionary to a list of dictionaries for easier processing or output
+        # Append or initialize list of objects for each predicate
+        if predicate_qname in entities[subject]['properties']:
+            entities[subject]['properties'][predicate_qname].append(object)
+        else:
+            entities[subject]['properties'][predicate_qname] = [object]
+
+    # Convert to a list and handle multiple values as strings
     text_entities = []
     for subject, data in entities.items():
         entity_info = {'IRI': data['IRI']}
         for prop, values in data['properties'].items():
-            entity_info[g.qname(URIRef(prop))] = ", ".join([str(v) for v in values])  # Convert all values to string
+            # Join multiple values into a single string separated by ", "
+            entity_info[prop] = ", ".join([str(v) for v in values])
         text_entities.append(entity_info)
 
-    # Optionally sort by a specific property, like IRI or a label
     text_entities.sort(key=lambda e: e.get('skos:prefLabel', e['IRI']))
 
     return text_entities
+
 
 
 
