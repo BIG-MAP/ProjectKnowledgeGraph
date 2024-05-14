@@ -1,4 +1,4 @@
-from rdflib import Graph
+from rdflib import Graph, URIRef
 
 
 
@@ -15,46 +15,49 @@ def load_ttl_from_url(url:str)->Graph:
 
 ########## QUERY TLL ################
 
-def extract_terms_info_sparql(g: Graph)-> list:
-
-    text_entities = []
-
-    # SPARQL QUERY #
+def extract_terms_info_sparql(g: Graph) -> list:
+    """
+    Extract all predicates and their corresponding objects for each subject in the graph.
+    """
     PREFIXES = """
-        PREFIX emmo: <https://w3id.org/emmo#>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
         PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-        """
-
-    list_entity_types = ["IRI", "prefLabel", "Elucidation", "Alternative Label(s)", "IEC Reference", "IUPAC Reference", "Wikipedia Reference", "Wikidata Reference", "Comment", ]
-
-    query =  PREFIXES  + """
-        SELECT ?iri ?prefLabel ?elucidation (GROUP_CONCAT(?altLabel; SEPARATOR=", ") AS ?altLabels) ?iecref ?iupacref ?wikipediaref ?wikidataref ?comment
+    """
+    query = PREFIXES + """
+        SELECT ?subject ?predicate ?object
         WHERE {
-            ?iri skos:prefLabel ?prefLabel.
-
-            OPTIONAL { ?iri emmo:EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9 ?elucidation . }
-            OPTIONAL { ?iri skos:altLabel ?altLabel . }
-            OPTIONAL { ?iri emmo:EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f ?iecref . }
-            OPTIONAL { ?iri emmo:EMMO_fe015383_afb3_44a6_ae86_043628697aa2 ?iupacref . }
-            OPTIONAL { ?iri emmo:EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d ?wikipediaref . }
-            OPTIONAL { ?iri emmo:EMMO_26bf1bef_d192_4da6_b0eb_d2209698fb54 ?wikidataref . }
-            OPTIONAL { ?iri rdfs:comment ?comment . }
+            ?subject ?predicate ?object.
         }
-
-        GROUP BY ?iri ?prefLabel ?elucidation
-
-        """
+    """
+    results = g.query(query)
+    
+    entities = {}
+    # Organize data by subject and collect all predicates and objects
+    for row in results:
+        subject = str(row.subject)
+        predicate = str(row.predicate)
+        object = str(row.object)
         
-    qres = g.query(query)
+        if subject not in entities:
+            entities[subject] = {'IRI': subject, 'properties': {}}
+        
+        # Handle multiple values for the same predicate
+        if predicate in entities[subject]['properties']:
+            entities[subject]['properties'][predicate].append(object)
+        else:
+            entities[subject]['properties'][predicate] = [object]
 
-    for hit in qres:    
-        hit_dict = {entity_type:str(entity) for entity_type, entity in zip(list_entity_types, hit)}
-        text_entities.append(hit_dict)
-
-    text_entities.sort(key=lambda e: e["prefLabel"])
+    # Convert the dictionary to a list of dictionaries for easier processing or output
+    text_entities = []
+    for subject, data in entities.items():
+        entity_info = {'IRI': data['IRI']}
+        for prop, values in data['properties'].items():
+            entity_info[prop] = ", ".join([str(v) for v in values])  # Convert all values to string
+        text_entities.append(entity_info)
 
     return text_entities
+
 
 
 
@@ -78,50 +81,48 @@ Class Index
 
 ########## RENDER ENTITIES ################
 
-def entities_to_rst(entities: list[dict]) -> str:
-    
+def entities_to_rst(entities: list[dict], g: Graph) -> str:
     rst = ""
-
     for item in entities:
-        # Check if '#' is in the IRI
         if '#' not in item['IRI']:
             print(f"Skipping IRI without '#': {item['IRI']}")
-            continue  # Skip this entity if no hash is present
+            continue
 
-        iri_prefix, iri_suffix = item['IRI'].split("#")
+        iri_suffix = item['IRI'].split("#")[-1]
 
-        rst += ".. raw:: html\n\n"
-        rst += "   <div id=\"" + iri_suffix + "\"></div>\n\n"
-        
-        rst += item['prefLabel'] + "\n"
-        for ind in range(len(item['prefLabel'])):
-            rst += "-"
-        rst += "\n\n"
+        #print(item)
 
+        # Attempt to fetch the prefLabel; use the IRI suffix if unavailable
+        # Ensure the key used to access prefLabel matches exactly as stored in the dictionary
+        prefLabel = item.get('http://www.w3.org/2004/02/skos/core#prefLabel', iri_suffix)  # Ensure this key matches how it's stored in item
+
+        rst += ".. _" + iri_suffix + ":\n\n"
+        rst += prefLabel + "\n"
+        rst += '-' * len(prefLabel) + "\n\n"
         rst += "* " + item['IRI'] + "\n\n"
 
         rst += ".. raw:: html\n\n"
         indent = "  "
         rst += indent + "<table class=\"element-table\">\n"
         for key, value in item.items():
-
-            if (key not in ['IRI', 'prefLabel']) & (value != "None") & (value != ""):
-
+            if key not in ['IRI', 'skos:prefLabel'] and value:  # Exclude 'IRI' and 'prefLabel' to avoid duplication
+                prefixed_key = g.qname(URIRef(key))  # Transform URI to QName
                 rst += indent + "<tr>\n"
-                rst += indent + "<td class=\"element-table-key\"><span class=\"element-table-key\">" + key + "</span></td>\n"
-                if value.startswith("http"):
-                    value = f"""<a href='{value}'>{value}</a>"""
-                else:
-                    value = value.encode('ascii', 'xmlcharrefreplace')
-                    value = value.decode('utf-8')
-                    value = value.replace('\n', '\n' + indent)
-                rst += indent + "<td class=\"element-table-value\">" + value + "</td>\n"
+                rst += indent + f"<td class=\"element-table-key\">{prefixed_key}</td>\n"
+                rst += indent + f"<td class=\"element-table-value\">{format_value(value)}</td>\n"
                 rst += indent + "</tr>\n"
-                
-        rst += indent + "</table>\n"
-        rst += "\n\n"
+        rst += indent + "</table>\n\n"
 
     return rst
+
+def format_value(value):
+    """Format the value for display in the RST document."""
+    if isinstance(value, str) and value.startswith("http"):
+        return f"<a href='{value}'>{value}</a>"
+    return str(value)
+
+
+
 
 
 ########## RENDER RST BOTTOM ################
@@ -137,38 +138,24 @@ def render_rst_bottom() -> str:
 
 
 def rendering_workflow():
-
-    # PAGES
+    # Load the graph and prepare entities list
     ttl_modules = [
-        {"section title": "BIG-MAP Resources",
-         "path": "./bigmap.ttl"}
+        {"section title": "BIG-MAP Resources", "path": "./bigmap.ttl"}
     ]
-
-    # GENERATE PAGES
-    rst_filename = "bigmap.rst"
-
-    rst = render_rst_top()
-
     for module in ttl_modules:
-
         g = load_ttl_from_url(module["path"])
-
         entities_list = extract_terms_info_sparql(g)
-        
+
+        # Start generating documentation
+        rst = render_rst_top()
         page_title = module["section title"]
-        rst += page_title + "\n"
-        for ind in range(len(page_title)):
-            rst += "="
-        rst += "\n\n"
-        rst += entities_to_rst(entities_list)
+        rst += page_title + "\n" + "=" * len(page_title) + "\n\n"
+        rst += entities_to_rst(entities_list, g)  # Pass the Graph object here
 
-    rst += render_rst_bottom()
-
-    with open("./docs/"+ rst_filename, "w+", encoding="utf-8") as f:
-        f.write(rst)
-
-
+        rst += render_rst_bottom()
+        with open("./docs/" + "bigmap.rst", "w+", encoding="utf-8") as f:
+            f.write(rst)
 
 if __name__ == "__main__":
-
     rendering_workflow()
+
