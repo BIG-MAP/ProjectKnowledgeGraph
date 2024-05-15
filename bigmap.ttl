@@ -170,6 +170,7 @@ bigmap:bigmap_12d7421b_451f_4a00_baa8_a6d162a915e7 a owl:NamedIndividual,
 bigmap:bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD11  - Demonstration of uncertainty-guided hybrid physics and deep-learning battery model" ;
+    bigmap:hasLeadPartner bigmap:bigmap_39d843f7_61f9_3f38_9f43_9d13d46c99ac ;
     eurio:abstract """\r\r\r
         BIG-MAP has developed an active learning algorithm to speed up the segmentation of battery electrodes. Capturing the complex 3D microstructures can give insight about their operational properties and dynamic changes that occur during cycling. However, segmentation with the near-perfect accuracy required is a challenging task. We use a deep learning algorithm, a U-Net for segmentation and employ active learning to minimize the needed for training data.\r\r\r
 \r\r\r
@@ -302,6 +303,7 @@ bigmap:bigmap_66642d47_58c4_4241_ab06_030feffa0aaf a eurio:Result,
 bigmap:bigmap_66db2cb6_df8f_4e27_9aa2_6a0062344568 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD3  - Demonstration of Autonomous Synthesis Robotics of protective electrode coatings" ;
+    bigmap:hasLeadPartner bigmap:bigmap_46b5234b_9b49_30ea_b058_b38bf9935454 ;
     eurio:abstract """\r\r\r
         BIG-MAP has developed a modular robotic synthesis platform. The vision behind the platform is to achieve the fully automated synthesis of battery materials, leveraging the power of machine learning and AI for self-driving experimental materials optimization. A specific focus has been put on the modularity of the platform both on the hardware and software level allowing for the rapid exchange of modules. This will make it flexible and extensible, which is key in a rapidly evolving research environment.\r\r\r
 \r\r\r
@@ -362,6 +364,7 @@ bigmap:bigmap_78efbe79_cbbd_4cfe_b5db_9ad6dd5c38e4 a owl:NamedIndividual,
 bigmap:bigmap_7c99c738_c7b7_4297_894e_38ed5ae83b50 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD5  - HTS SEI Demonstrator using integrated high-throughput electrochemistry and ex situ high throughput spectroscopy to optimized electrolyte formulations and materials" ;
+    bigmap:hasLeadPartner bigmap:bigmap_d24a9440_6005_3446_aa3f_0b1f56065387 ;
     eurio:abstract """\r\r\r
         BIG-MAP has established a versatile material characterization and performance evaluation module focusing on liquid electrolyte formulations and compatible electrode materials with proven capabilities for lithium-based battery systems. The current state of achievements comprises autonomous high-throughput (HT) formulation, characterization and analysis systems complemented by a traditionally performed characterization approach to obtain reliable and transferable data sets that include both the common experimental targets and the partner-specific designs. The strong interaction and complementarity facilitate a new level of integration in the HT formulation-characterization-performance-analysis-evaluation chain, leading to accelerated identification of lead electrolyte candidates for given cell chemistries and applications.\r\r\r
 \r\r\r
@@ -394,6 +397,7 @@ bigmap:bigmap_83bb8087_695b_4b8f_8144_361ea98ce73b a owl:NamedIndividual,
 bigmap:bigmap_8866787e_893b_4430_af03_8b21c9a63449 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD7  - An Open European Platform with BIG-MAP standards & testing protocols for battery materials" ;
+    bigmap:hasLeadPartner bigmap:bigmap_416b198d_3736_3b0f_9336_a99131d13d1d ;
     eurio:abstract """\r\r\r
         BIG-MAP has developed an online laboratory notebook to securely store electrochemical and characterizations data using standards and protocols necessary to ensure reproducibility of battery testing and sharing. Metadata necessary to describe cell chemistry and components as well as cycling protocols are collected, and linked to the BattINFO Ontology entries. Demonstration is made that a web-based interface, the notebook, can be successfully linked to the ontology BattINFO.\r\r\r
 \r\r\r
@@ -429,6 +433,7 @@ bigmap:bigmap_9043fcbd_f41c_48a4_ae5d_e53caf11c9fb a owl:NamedIndividual,
 bigmap:bigmap_9338cde6_8924_4d7e_a02d_2d3e0701a7ac a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD4  - Multi-modal Characterization Demonstrator capable of running coordinated multi-technique experiments to acquire multi-scale/multi-fidelity data" ;
+    bigmap:hasLeadPartner bigmap:bigmap_88b33ebf_69d7_3a5f_9dfa_87c083fe2a7e ;
     eurio:abstract """\r\r\r
         BIG-MAP has developed a methodology to coordinate multi-site, multi-partners and multi-techniques investigations on standardized battery materials and cells using an array of complementary tools both in-lab and at large scale facilities. This multimodal characterization platform enables an optimized access to multidimensional parameter mapping. Specific workflows were designed and operated to combine experimental tools and acquire complementary sets of data with established fidelity criteria, paving the way to automatized correlative characterization.\r\r\r
 \r\r\r
@@ -451,6 +456,7 @@ bigmap:bigmap_9338cde6_8924_4d7e_a02d_2d3e0701a7ac a eurio:Result,
 bigmap:bigmap_94526240_5e05_40e2_8461_a1cdb77d2018 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD1 - QML Demonstrator of an interface potential for an experimental electrode-electrolyte system" ;
+    bigmap:hasLeadPartner bigmap:bigmap_2ed238e7_1d74_32f3_b144_ec1d3d385266 ;
     eurio:abstract """\r\r\r
         A key part of the BIG-MAP effort was focussed on automating the construction of force field models that allow the investigation of battery components (their behaviour, properties and degradation) on molecular length and time scales. Machine learning enables the distillation of expensive electronic structure calculations into fast force fields. An example of such a force field, trained only on inorganic crystal structures obtained from the Materials Project shows stable molecular dynamics simulation of a prototype interface between graphite and LP57 electrolyte (EC/EMC and LiPF6).\r\r\r
 \r\r\r
@@ -522,6 +528,7 @@ bigmap:bigmap_a817b3d0_ec14_4461_8021_963835cabbf2 a owl:NamedIndividual,
 bigmap:bigmap_b08c7a35_bdb7_4aca_83be_77f9554a462b a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD10  - Modular packages for autonomous analysis of spectroscopic and electrochemical data" ;
+    bigmap:hasLeadPartner bigmap:bigmap_93f24b16_09c1_31f8_a413_897527554e50 ;
     eurio:abstract """\r\r\r
         The BIG-MAP project generates large numbers of spectra during spatial mapping, in situ and operando experiments on battery materials. In this scenario, manual pre-processing of spectra becomes error-prone and prohibitively laborious. In this article we describe the processing tools we have developed to tackle the high-throughput spectral analysis challenge. Whether by harnessing human expertise or by leveraging neural network models, these tools are accelerating the way we uncover scientific insights from spectra.\r\r\r
 \r\r\r
@@ -588,6 +595,7 @@ bigmap:bigmap_c595b1c2_ef6f_494a_85f1_2c8f68028e0f a owl:NamedIndividual,
 bigmap:bigmap_cc70b46b_0401_409d_af37_c78685e98f76 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD2 - AI-enhanced multi-scale demonstrator for accelerated scale-bridging" ;
+    bigmap:hasLeadPartner bigmap:bigmap_93f24b16_09c1_31f8_a413_897527554e50 ;
     eurio:abstract """\r\r\r
         With this key demonstrator we have pioneered a methodology to make cell level models at the micrometer scale aware of the molecular mechanisms that govern battery performance at the sub-nanometer level. Because there is not a single simulation method available that governs all relevant scales and processes we developed an integrated chain of modelling methods to conquer this problem. The cornerstone of our scale-bridging approach is a robust set of computational tools, consisting of two integral components: a dedicated set of chemistry-aware simulation methods and a state-of-the-art machine-learning toolkit. The elements of the resulting toolkit were made available in externalizable workflows using widely adopted workflow engines, such as AIIDA and SimStack, to facilitate seamless integration as a driver of materials acceleration platforms for batteries. Our tools enable co-discovery with experimental groups.\r\r\r
 \r\r\r
@@ -619,6 +627,7 @@ bigmap:bigmap_d8175e8d_6fda_4e9e_ac82_1e8d22c1727a a owl:NamedIndividual,
 bigmap:bigmap_dc4aacec_4357_4486_a1bd_18ec894ebed1 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD9  - Development of a BIG-MAP App-store for automated analysis modules and workflows" ;
+    bigmap:hasLeadPartner bigmap:bigmap_6d6921d0_b70d_3e26_b672_aac9fe03381e ;
     eurio:abstract """\r\r\r
         BIG-MAP has developed a platform to share and promote its state-of-the-art tools and methods: the BIG-MAP App Store. This online portal serves as the primary registry of all the apps used and developed in the projects funded by BIG-MAP, offering a one stop solution to explore powerful apps for battery research.\r\r\r
 \r\r\r
@@ -665,6 +674,7 @@ bigmap:bigmap_e5bf3d3f_1983_4ab1_9a4c_f87365220ded a owl:NamedIndividual,
 bigmap:bigmap_e62dc54b_059b_4b72_9f4c_5fe52a2b1740 a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD12  - Transferability demonstrated for Li-ion hybrid models to novel battery chemistries" ;
+    bigmap:hasLeadPartner bigmap:bigmap_e6828054_2abc_3285_ae50_a049b4b799c5 ;
     eurio:abstract """\r\r\r
         The changing battery landscape requires advanced models that go beyond lithium-ion technology to continue the progress and investigation. The BIG-MAP project has devised innovative methodologies succeed on the adaptation of models from lithium-ion to emerging systems like sodium or magnesium-based batteries, overcoming lithium-ion limitations and promoting sustainable energy storage solutions. It includes machine learning models for predicting battery lifespan and customized experimental methods to test their applicability across different systems.\r\r\r
 \r\r\r
@@ -1668,7 +1678,7 @@ bigmap:bigmap_1394d968_2025_3754_8d92_3f0e71d7dee0 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/1394d968-2025-3754-8d92-3f0e71d7dee0> ;
     skos:altLable "UCAM" ;
-    skos:prefLabel "Org: THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "Cambridge" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cambridge_icon.png> .
 
 bigmap:bigmap_148423d0_20a8_378e_8473_854fb932c59e a eurio:OrganisationRole,
@@ -1684,7 +1694,7 @@ bigmap:bigmap_148423d0_20a8_378e_8473_854fb932c59e a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/148423d0-20a8-378e-8473-854fb932c59e> ;
     skos:altLable "BASF" ;
-    skos:prefLabel "Org: BASF SE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "BASF" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/basf_icon.png> .
 
 bigmap:bigmap_1b8180be_d82d_39ca_889e_ac50024a4d42 a eurio:OrganisationRole,
@@ -1699,7 +1709,7 @@ bigmap:bigmap_1b8180be_d82d_39ca_889e_ac50024a4d42 a eurio:OrganisationRole,
     eurio:roleLabel "thirdParty" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/1b8180be-d82d-39ca-889e-ac50024a4d42> ;
-    skos:prefLabel "Org: UMICORE SPECIALTY POWDERS FRANCE/ Role: thirdParty/ Project: 54550" ;
+    skos:prefLabel "UMICORE" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/umicore_icon.png> .
 
 bigmap:bigmap_2b664aa1_d229_364b_b56c_b44acadf8c4b a eurio:OrganisationRole,
@@ -1714,7 +1724,7 @@ bigmap:bigmap_2b664aa1_d229_364b_b56c_b44acadf8c4b a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/2b664aa1-d229-364b-b56c-b44acadf8c4b> ;
-    skos:prefLabel "Org: CONSIGLIO NAZIONALE DELLE RICERCHE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "CNR" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cnr_icon.png> .
 
 bigmap:bigmap_2ed238e7_1d74_32f3_b144_ec1d3d385266 a eurio:OrganisationRole,
@@ -1730,7 +1740,7 @@ bigmap:bigmap_2ed238e7_1d74_32f3_b144_ec1d3d385266 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/2ed238e7-1d74-32f3-b144-ec1d3d385266> ;
     skos:altLable "UU" ;
-    skos:prefLabel "Org: UPPSALA UNIVERSITET/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "UPPSALA" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/uppsala_icon.png> .
 
 bigmap:bigmap_37611591_909e_3c18_83c3_a97e9d8d0b22 a eurio:OrganisationRole,
@@ -1745,7 +1755,7 @@ bigmap:bigmap_37611591_909e_3c18_83c3_a97e9d8d0b22 a eurio:OrganisationRole,
     eurio:roleLabel "thirdParty" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/37611591-909e-3c18-83c3-a97e9d8d0b22> ;
-    skos:prefLabel "Org: RHODIA OPERATIONS/ Role: thirdParty/ Project: 54550" ;
+    skos:prefLabel "RHODIA" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/rhodia_icon.png> .
 
 bigmap:bigmap_37e97105_36ad_3327_890d_c6a44103598e a eurio:OrganisationRole,
@@ -1760,7 +1770,7 @@ bigmap:bigmap_37e97105_36ad_3327_890d_c6a44103598e a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/37e97105-36ad-3327-890d-c6a44103598e> ;
-    skos:prefLabel "Org: SAFT/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "SAFT" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/saft_icon.png> .
 
 bigmap:bigmap_38d7967b_f491_3c45_92cd_818bce7f68de a eurio:OrganisationRole,
@@ -1776,7 +1786,7 @@ bigmap:bigmap_38d7967b_f491_3c45_92cd_818bce7f68de a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/38d7967b-f491-3c45-92cd-818bce7f68de> ;
     skos:altLabel "UNIVIE" ;
-    skos:prefLabel "Org: UNIVERSITAT WIEN/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "Uni Vienna" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wien_icon.png> .
 
 bigmap:bigmap_3a1f654d_56d1_3bca_8533_405d7faf304b a eurio:MonetaryAmount,
@@ -1800,7 +1810,7 @@ bigmap:bigmap_3aad9820_8cb0_3c1d_b008_cc8862a8223d a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/3aad9820-8cb0-3c1d-b008-cc8862a8223d> ;
     skos:altLable "ILL" ;
-    skos:prefLabel "Org: INSTITUT MAX VON LAUE - PAUL LANGEVIN/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "ILL" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ill_icon.png> .
 
 bigmap:bigmap_416b198d_3736_3b0f_9336_a99131d13d1d a eurio:OrganisationRole,
@@ -1816,7 +1826,7 @@ bigmap:bigmap_416b198d_3736_3b0f_9336_a99131d13d1d a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/416b198d-3736-3b0f-9336-a99131d13d1d> ;
     skos:altLabel "CNRS" ;
-    skos:prefLabel "Org: CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "CNRS" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cnrs_icon.png> .
 
 bigmap:bigmap_46b5234b_9b49_30ea_b058_b38bf9935454 a eurio:OrganisationRole,
@@ -1832,7 +1842,7 @@ bigmap:bigmap_46b5234b_9b49_30ea_b058_b38bf9935454 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/46b5234b-9b49-30ea-b058-b38bf9935454> ;
     skos:altLabel "NIC" ;
-    skos:prefLabel "Org: KEMIJSKI INSTITUT/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "NIC" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/ki_icon.png> .
 
 bigmap:bigmap_51e0aa0a_43e3_3a2a_84f6_8a8389fb6979 a eurio:OrganisationRole,
@@ -1847,7 +1857,7 @@ bigmap:bigmap_51e0aa0a_43e3_3a2a_84f6_8a8389fb6979 a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/51e0aa0a-43e3-3a2a-84f6-8a8389fb6979> ;
-    skos:prefLabel "Org: SOLVAY SA/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "SOLVAY" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/solvay_icon.png> .
 
 bigmap:bigmap_6d6921d0_b70d_3e26_b672_aac9fe03381e a eurio:OrganisationRole,
@@ -1863,7 +1873,7 @@ bigmap:bigmap_6d6921d0_b70d_3e26_b672_aac9fe03381e a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/6d6921d0-b70d-3e26-b672-aac9fe03381e> ;
     skos:altLabel "EPFL" ;
-    skos:prefLabel "Org: ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "EPFL" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/epfl_icon.png> .
 
 bigmap:bigmap_6fba6522_8c28_32d0_93d5_4ee871987c4d a eurio:OrganisationRole,
@@ -1879,7 +1889,7 @@ bigmap:bigmap_6fba6522_8c28_32d0_93d5_4ee871987c4d a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/6fba6522-8c28-32d0-93d5-4ee871987c4d> ;
     skos:altLable "ESRF" ;
-    skos:prefLabel "Org: EUROPEAN SYNCHROTRON RADIATION FACILITY/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "ESRF" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/esrf_icon.png> .
 
 bigmap:bigmap_882b2b6e_bdec_32fb_b91c_a81a3c0de9d7 a eurio:OrganisationRole,
@@ -1894,7 +1904,7 @@ bigmap:bigmap_882b2b6e_bdec_32fb_b91c_a81a3c0de9d7 a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/882b2b6e-bdec-32fb-b91c-a81a3c0de9d7> ;
-    skos:prefLabel "Org: TARTU ULIKOOL/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "TARTU" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/tartu_icon.png> .
 
 bigmap:bigmap_896bcdd1_a2dc_3d20_8438_f9e4fd4446da a eurio:OrganisationRole,
@@ -1909,7 +1919,7 @@ bigmap:bigmap_896bcdd1_a2dc_3d20_8438_f9e4fd4446da a eurio:OrganisationRole,
     eurio:roleLabel "thirdParty" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/896bcdd1-a2dc-3d20-8438-f9e4fd4446da> ;
-    skos:prefLabel "Org: UNIVERSITE DE PICARDIE JULES VERNE/ Role: thirdParty/ Project: 54550" ;
+    skos:prefLabel "UPJV" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/upjv_icon.png> .
 
 bigmap:bigmap_8ff2888f_ccd3_384a_879b_6ec7747b218c a eurio:OrganisationRole,
@@ -1924,7 +1934,7 @@ bigmap:bigmap_8ff2888f_ccd3_384a_879b_6ec7747b218c a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/8ff2888f-ccd3-384a-879b-6ec7747b218c> ;
-    skos:prefLabel "Org: UNIVERSITAT BASEL/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "Uni Basel" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/unibasel_icon.png> .
 
 bigmap:bigmap_92ab9afc_8d68_33a0_86a1_5a4b8f9203fc a eurio:OrganisationRole,
@@ -1939,7 +1949,7 @@ bigmap:bigmap_92ab9afc_8d68_33a0_86a1_5a4b8f9203fc a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/92ab9afc-8d68-33a0-86a1-5a4b8f9203fc> ;
-    skos:prefLabel "Org: UMICORE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "UMICORE" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/umicore_icon.png> .
 
 bigmap:bigmap_9569edbd_3444_31e7_b6e8_f4f21c359b2f a eurio:OrganisationRole,
@@ -1955,7 +1965,7 @@ bigmap:bigmap_9569edbd_3444_31e7_b6e8_f4f21c359b2f a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/9569edbd-3444-31e7-b6e8-f4f21c359b2f> ;
     skos:altLabel "CSIC" ;
-    skos:prefLabel "Org: AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "CSIC" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/csic_icon.png> .
 
 bigmap:bigmap_99ae1129_de2a_35cc_afdb_a9e45b5294a1 a eurio:OrganisationRole,
@@ -1970,7 +1980,7 @@ bigmap:bigmap_99ae1129_de2a_35cc_afdb_a9e45b5294a1 a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/99ae1129-de2a-35cc-afdb-a9e45b5294a1> ;
-    skos:prefLabel "Org: WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "WWU" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wwu_icon.png> .
 
 bigmap:bigmap_ba790896_89c0_3196_a9fa_adba4ef9a3ab a eurio:OrganisationRole,
@@ -1985,8 +1995,8 @@ bigmap:bigmap_ba790896_89c0_3196_a9fa_adba4ef9a3ab a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/ba790896-89c0-3196-a9fa-adba4ef9a3ab> ;
-    skos:altLabel "CNRS" ;
-    skos:prefLabel "Org: SYNCHROTRON SOLEIL SOCIETE CIVILE/ Role: participant/ Project: 54550" ;
+    skos:altLabel "SOLEIL" ;
+    skos:prefLabel "SOLEIL" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/soleil_icon.png> .
 
 bigmap:bigmap_d24a9440_6005_3446_aa3f_0b1f56065387 a eurio:OrganisationRole,
@@ -2002,7 +2012,7 @@ bigmap:bigmap_d24a9440_6005_3446_aa3f_0b1f56065387 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/d24a9440-6005-3446-aa3f-0b1f56065387> ;
     skos:altLabel "FZJ" ;
-    skos:prefLabel "Org: FORSCHUNGSZENTRUM JULICH GMBH/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "FZJ" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/fzj_icon.png> .
 
 bigmap:bigmap_d3f32e7d_cfa6_3f03_9b0f_a34765a7aceb a eurio:OrganisationRole,
@@ -2018,7 +2028,7 @@ bigmap:bigmap_d3f32e7d_cfa6_3f03_9b0f_a34765a7aceb a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/d3f32e7d-cfa6-3f03-9b0f-a34765a7aceb> ;
     skos:altLabel "CTH" ;
-    skos:prefLabel "Org: CHALMERS TEKNISKA HOGSKOLA AB/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "CHALMERS" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/chalmers_icon.png> .
 
 bigmap:bigmap_d4ddce50_0ee8_35d7_9e3c_8d89424116d2 a eurio:OrganisationRole,
@@ -2033,7 +2043,7 @@ bigmap:bigmap_d4ddce50_0ee8_35d7_9e3c_8d89424116d2 a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/d4ddce50-0ee8-35d7-9e3c-8d89424116d2> ;
-    skos:prefLabel "Org: NORTHVOLT AB/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "NORTHVOLT" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/northvolt_icon.png> .
 
 bigmap:bigmap_e6828054_2abc_3285_ae50_a049b4b799c5 a eurio:OrganisationRole,
@@ -2049,7 +2059,7 @@ bigmap:bigmap_e6828054_2abc_3285_ae50_a049b4b799c5 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/e6828054-2abc-3285-ae50-a049b4b799c5> ;
     skos:altLabel "CID" ;
-    skos:prefLabel "Org: FUNDACION CIDETEC/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "CIDETEC" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cidetec_icon.png> .
 
 bigmap:bigmap_e6fb8c19_23c5_371e_bcc6_c20828731550 a eurio:OrganisationRole,
@@ -2064,7 +2074,7 @@ bigmap:bigmap_e6fb8c19_23c5_371e_bcc6_c20828731550 a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/e6fb8c19-23c5-371e-bcc6-c20828731550> ;
-    skos:prefLabel "Org: DASSAULT SYSTEMES DEUTSCHLAND GMBH/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "3DS" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/3ds_icon.png> .
 
 bigmap:bigmap_ef057362_da87_3c9d_9691_5167797f30c1 a eurio:OrganisationRole,
@@ -2080,7 +2090,7 @@ bigmap:bigmap_ef057362_da87_3c9d_9691_5167797f30c1 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/ef057362-da87-3c9d-9691-5167797f30c1> ;
     skos:altLabel "PDT" ;
-    skos:prefLabel "Org: POLITECNICO DI TORINO/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "POLITO" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/polito_icon.png> .
 
 bigmap:bigmap_f01bcfc1_a8ab_3412_a244_3a8ffa6c7579 a eurio:OrganisationRole,
@@ -2095,7 +2105,7 @@ bigmap:bigmap_f01bcfc1_a8ab_3412_a244_3a8ffa6c7579 a eurio:OrganisationRole,
     eurio:roleLabel "participant" ;
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/f01bcfc1-a8ab-3412-a244-3a8ffa6c7579> ;
-    skos:prefLabel "Org: THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "OXFORD" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/oxford_icon.png> .
 
 bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 a owl:NamedIndividual,
@@ -2117,7 +2127,7 @@ bigmap:bigmap_58e96e56_252c_3480_b57f_14955d7a3f9e a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/58e96e56-252c-3480-b57f-14955d7a3f9e> ;
     skos:altLabel "Fraunhofer" ;
-    skos:prefLabel "Org: FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "Fraunhofer" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/fraunhofer_icon.png> .
 
 bigmap:bigmap_7261e552_6513_3f64_b919_10896d57925c a eurio:OrganisationRole,
@@ -2133,7 +2143,7 @@ bigmap:bigmap_7261e552_6513_3f64_b919_10896d57925c a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/7261e552-6513-3f64-b919-10896d57925c> ;
     skos:altLabel "ULIV" ;
-    skos:prefLabel "Org: THE UNIVERSITY OF LIVERPOOL/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "Liverpool" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/liverpool_icon.png> .
 
 bigmap:bigmap_88b33ebf_69d7_3a5f_9dfa_87c083fe2a7e a eurio:OrganisationRole,
@@ -2149,7 +2159,7 @@ bigmap:bigmap_88b33ebf_69d7_3a5f_9dfa_87c083fe2a7e a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/88b33ebf-69d7-3a5f-9dfa-87c083fe2a7e> ;
     skos:altLabel "CEA" ;
-    skos:prefLabel "Org: COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "CEA" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/cea_icon.png> .
 
 bigmap:bigmap_892c9b07_457d_3cb9_8db5_2132c2678a5f a eurio:OrganisationRole,
@@ -2165,7 +2175,7 @@ bigmap:bigmap_892c9b07_457d_3cb9_8db5_2132c2678a5f a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/892c9b07-457d-3cb9-8db5-2132c2678a5f> ;
     skos:altLabel "ITU" ;
-    skos:prefLabel "Org: IT-UNIVERSITETET I KOBENHAVN/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "ITU" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/itu_icon.png> .
 
 bigmap:bigmap_c23c07f5_098a_35d9_8f4d_d5a6419ec89b a eurio:OrganisationRole,
@@ -2181,7 +2191,7 @@ bigmap:bigmap_c23c07f5_098a_35d9_8f4d_d5a6419ec89b a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/c23c07f5-098a-35d9-8f4d-d5a6419ec89b> ;
     skos:altLabel "TUD" ;
-    skos:prefLabel "Org: TECHNISCHE UNIVERSITEIT DELFT/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "TU Delft" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/update_from_cordis/assets/img/icon/tudelft_icon.png> .
 
 bigmap:bigmap_d278f769_5274_3681_927f_b46576dacc08 a eurio:OrganisationRole,
@@ -2197,7 +2207,7 @@ bigmap:bigmap_d278f769_5274_3681_927f_b46576dacc08 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/d278f769-5274-3681-927f-b46576dacc08> ;
     skos:altLabel "WUT" ;
-    skos:prefLabel "Org: POLITECHNIKA WARSZAWSKA/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "WUT" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/politechnika_warszawska_icon.png> .
 
 skos:Concept a owl:Class .
@@ -2215,7 +2225,7 @@ bigmap:bigmap_39d843f7_61f9_3f38_9f43_9d13d46c99ac a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/39d843f7-61f9-3f38-9f43-9d13d46c99ac> ;
     skos:altLabel "DTU" ;
-    skos:prefLabel "Org: DANMARKS TEKNISKE UNIVERSITET/ Role: coordinator/ Project: 54550" ;
+    skos:prefLabel "DTU" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/dtu_icon.png> .
 
 bigmap:bigmap_93f24b16_09c1_31f8_a413_897527554e50 a eurio:OrganisationRole,
@@ -2231,7 +2241,7 @@ bigmap:bigmap_93f24b16_09c1_31f8_a413_897527554e50 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/93f24b16-09c1-31f8-a413-897527554e50> ;
     skos:altLabel "KIT" ;
-    skos:prefLabel "Org: KARLSRUHER INSTITUT FUER TECHNOLOGIE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "KIT" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/kit_icon.png> .
 
 bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 a eurio:OrganisationRole,
@@ -2247,7 +2257,7 @@ bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/e19a26de-7fb1-3565-bc71-419147625560> ;
     skos:altLabel "SINTEF" ;
-    skos:prefLabel "Org: SINTEF AS/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "SINTEF" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/sintef_icon.png> .
 
 bigmap:bigmap_fc316fc4_8181_3cc6_8688_6f9ad07847dc a eurio:OrganisationRole,
@@ -2263,7 +2273,7 @@ bigmap:bigmap_fc316fc4_8181_3cc6_8688_6f9ad07847dc a eurio:OrganisationRole,
     eurio:startDate "2020-09-01"^^xsd:date ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/organisationroles/fc316fc4-8181-3cc6-8688-6f9ad07847dc> ;
     skos:altLabel "EMIRI" ;
-    skos:prefLabel "Org: ENERGY MATERIALS INDUSTRIAL RESEARCH INITIATIVE/ Role: participant/ Project: 54550" ;
+    skos:prefLabel "EMIRI" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/emiri_icon.png> .
 
 bigmap:bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3 a owl:NamedIndividual,
