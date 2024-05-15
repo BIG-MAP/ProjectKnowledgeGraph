@@ -279,6 +279,7 @@ bigmap:bigmap_5c4e89a4_9e77_48a5_877a_17b00049baa2 a owl:NamedIndividual,
 bigmap:bigmap_66642d47_58c4_4241_ab06_030feffa0aaf a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD6  - Development of a community-wide European Battery Interface Ontology" ;
+    bigmap:hasLeadPartner bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 ;
     eurio:abstract """\r\r\r
         BattINFO provides a shared vocabulary and taxonomy that defines the properties, attributes, and relationships of battery-related concepts, such as cell chemistry, cell design, and performance metrics. This can enable more accurate and consistent data collection, analysis, and interpretation, as well as better comparison and benchmarking of different battery technologies and applications.\r\r\r
 \r\r\r
