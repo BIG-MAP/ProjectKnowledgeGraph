@@ -123,6 +123,18 @@ ns1:altLabel a owl:AnnotationProperty .
 
 ns1:prefLabel a owl:AnnotationProperty .
 
+bigmap:hasTask a owl:ObjectProperty ;
+    skos:prefLabel "hasTask"@en .
+
+bigmap:hasWorkPackage a owl:ObjectProperty ;
+    skos:prefLabel "hasWorkPackage"@en .
+
+bigmap:hasLeadPartner a owl:ObjectProperty ;
+    skos:prefLabel "hasLeadPartner"@en .
+
+bigmap:hasPartner a owl:ObjectProperty ;
+    skos:prefLabel "hasPartner"@en .
+
 <https://graph.big-map.eu/project> a owl:Ontology ;
     owl:imports <https://w3id.org/emmo/domain/datamanagement/0.1.0-beta/datamanagement> ;
     owl:versionIRI <https://graph.big-map.eu/project/0.1.0/project> .
@@ -274,8 +286,7 @@ bigmap:bigmap_66642d47_58c4_4241_ab06_030feffa0aaf a eurio:Result,
 \r\r\r
         BattINFO is defined as part of the larger Elementary Multi-Perspective Materials Ontology (EMMO) and is scheduled for release in conjunction with the first stable release of EMMO. The release of BattINFO fulfils one of the 12 key demonstrators defined for the BIG-MAP project, namely “Development of a community-wide European Battery Interface Ontology”.\r\r\r
     """ ;
-    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Development of a community-wide European Battery Interface Ontology" ;
@@ -2300,6 +2311,11 @@ bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 a owl:NamedIndividual,
 bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
     skos:altLabel "WP7" ;
+    bigmap:hasTask bigmap:bigmap_7304d2cc_b9f5_4efc_9e6f_fa70143f87ac ,
+        bigmap:bigmap_4fa2e10e_efe2_45ad_b426_217725e1ceda ,
+        bigmap:bigmap_564a979c_3226_43a7_9db7_7dca715f5f7f ,
+        bigmap:bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f ;
+    bigmap:hasLeadPartner bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 ;
     skos:prefLabel "WP7 Battery Interface Ontology"@en ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp7_icon.png> .
 
