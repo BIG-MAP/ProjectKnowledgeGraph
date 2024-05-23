@@ -2337,7 +2337,6 @@ bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 a owl:NamedIndividual,
         bigmap:bigmap_4fa2e10e_efe2_45ad_b426_217725e1ceda ,
         bigmap:bigmap_564a979c_3226_43a7_9db7_7dca715f5f7f ,
         bigmap:bigmap_8f1bc1fc_7977_469c_825e_795e67ae658f ;
-    bigmap:hasLeadPartner bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 ;
     skos:prefLabel "WP7 Battery Interface Ontology"@en ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp7_icon.png> .
 
