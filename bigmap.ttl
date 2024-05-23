@@ -521,11 +521,12 @@ bigmap:bigmap_a46f3676_3bdb_424d_b864_bd933dfeb68c a eurio:Result,
 \r\r\r
         An upgraded version of the pump and valve system of the setup for the Autonomous Synthesis and Analysis of Battery electrolytes experimental (ASAB) tenant, which served as the experimental tenant in the FINALES demonstration.\r\r\r
         """ ;
-    eurio:isResultOf bigmap:bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742 ,
-        bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 ,
-        bigmap:bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3 ,
-        bigmap:bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b ,
-        bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 ;
+    eurio:isResultOf bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 ,
+        bigmap:bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83 , 
+        bigmap:bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed ,
+        bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 ,
+        bigmap:bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4 ,
+        bigmap:bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742 ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Automated Workflow Demonstrator for integrated simulations and experiments" ;
