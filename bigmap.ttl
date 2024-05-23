@@ -792,13 +792,13 @@ bigmap:bigmap_19b14008_2f0d_3751_adc6_cba9ae60bd45 a eurio:ProjectDeliverable,
     eurio:description "Launch of the httpwwwBIGMAPeu web site with information about the project" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/19b14008-2f0d-3751-adc6-cba9ae60bd45> ;
     eurio:identifier "957189_2_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 ;
     eurio:language "en" ;
     eurio:rcn "847145"^^xsd:nonNegativeInteger ;
     eurio:title "BIG-MAP website" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d65deeaf&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/19b14008-2f0d-3751-adc6-cba9ae60bd45> ;
-    skos:prefLabel "BIG-MAP website" .
+    skos:prefLabel "D1.1" .
 
 bigmap:bigmap_201e31ee_7090_4ca4_9f86_b41b2ce2566b a eurio:Result,
         schema:VideoObject ;
@@ -902,15 +902,14 @@ bigmap:bigmap_34d4af68_cf0e_351e_be3f_cbeda84b7619 a eurio:ProjectDeliverable,
     eurio:description "Report with specification (flow chart) of hardware and software architecture submitted." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/34d4af68-cf0e-351e-be3f-cbeda84b7619> ;
     eurio:identifier "957189_26_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed ;
     eurio:language "en" ;
     eurio:rcn "847134"^^xsd:nonNegativeInteger ;
     eurio:title "Specification (flow chart) of hardware and software architecture" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d9ec150e&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/34d4af68-cf0e-351e-be3f-cbeda84b7619> ;
     skos:altLabel "D4.1" ;
-    skos:prefLabel "Specification (flow chart) of hardware and software architecture" ;
+    skos:prefLabel "D4.1" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_892c9b07_457d_3cb9_8db5_2132c2678a5f .
 
 bigmap:bigmap_361a14f4_c270_3b27_98fe_938e04f38e21 a eurio:ProjectDeliverable,
@@ -920,15 +919,14 @@ bigmap:bigmap_361a14f4_c270_3b27_98fe_938e04f38e21 a eurio:ProjectDeliverable,
     eurio:description "First stable release of battery interface ontology" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/361a14f4-c270-3b27-98fe-938e04f38e21> ;
     eurio:identifier "957189_46_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 ;
     eurio:language "en" ;
     eurio:rcn "847143"^^xsd:nonNegativeInteger ;
     eurio:title "First stable release of battery interface ontology" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8ebd2f1&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/361a14f4-c270-3b27-98fe-938e04f38e21> ;
     skos:altLabel "D7.3" ;
-    skos:prefLabel "First stable release of battery interface ontology" ;
+    skos:prefLabel "D7.3" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 .
 
 bigmap:bigmap_3a451a0c_2166_3992_8e08_494ace2428b9 a eurio:JournalPaper,
@@ -978,15 +976,14 @@ bigmap:bigmap_45464871_2ea8_313d_b02c_3d3b9f528c4f a eurio:ProjectDeliverable,
     eurio:description "Report on state-of-the art experimental matrix, tier 1 experimental plan and workflow submitted." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/45464871-2ea8-313d-b02c-3d3b9f528c4f> ;
     eurio:identifier "957189_34_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf,
-        bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 ;
+    eurio:isResultOf bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 ;
     eurio:language "en" ;
     eurio:rcn "847144"^^xsd:nonNegativeInteger ;
     eurio:title "State-of-the art experimental matrix, tier 1 experimental plan and workflow" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d9ec31d7&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/45464871-2ea8-313d-b02c-3d3b9f528c4f> ;
     skos:altLabel "D5.1" ;
-    skos:prefLabel "State-of-the art experimental matrix, tier 1 experimental plan and workflow" ;
+    skos:prefLabel "D5.1" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_c23c07f5_098a_35d9_8f4d_d5a6419ec89b .
 
 bigmap:bigmap_4def35f9_619c_3a64_9f72_ca8b48bc207d a eurio:JournalPaper,
@@ -1038,15 +1035,14 @@ bigmap:bigmap_57e9cf96_a1b3_3e46_81e1_2cd6e4c3f61a a eurio:ProjectDeliverable,
     eurio:description "Submission of report with proceedings from the Early Stage Research Seminar" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/57e9cf96-a1b3-3e46-81e1-2cd6e4c3f61a> ;
     eurio:identifier "957189_7_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 ;
     eurio:language "en" ;
     eurio:rcn "847141"^^xsd:nonNegativeInteger ;
     eurio:title "Proceedings from Early Stage Research Seminar" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8e1f5e7&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/57e9cf96-a1b3-3e46-81e1-2cd6e4c3f61a> ;
     skos:altLabel "D1.10" ;
-    skos:prefLabel "Proceedings from Early Stage Research Seminar" ;
+    skos:prefLabel "D1.10" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_fc316fc4_8181_3cc6_8688_6f9ad07847dc .
 
 bigmap:bigmap_5cd5ae73_308d_31e4_ad0c_ce4e7924cc43 a eurio:ProjectReportSummary,
@@ -1096,15 +1092,14 @@ bigmap:bigmap_607ff7a4_94ce_3ad9_8d14_f943736c8370 a eurio:ProjectDeliverable,
     eurio:description "Design of workflow for a European experimental multimodal platform completed" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/607ff7a4-94ce-3ad9-8d14-f943736c8370> ;
     eurio:identifier "957189_35_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf,
-        bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 ;
+    eurio:isResultOf bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 ;
     eurio:language "en" ;
     eurio:rcn "847146"^^xsd:nonNegativeInteger ;
     eurio:title "Design of workflow for a European experimental multimodal platform completed" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8ffa0ee&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/607ff7a4-94ce-3ad9-8d14-f943736c8370> ;
     skos:altLabel "D5.5" ;
-    skos:prefLabel "Design of workflow for a European experimental multimodal platform completed" ;
+    skos:prefLabel "D5.5" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_88b33ebf_69d7_3a5f_9dfa_87c083fe2a7e .
 
 bigmap:bigmap_693b2260_6719_3d58_91d5_8d90a14d29be a eurio:JournalPaper,
@@ -1135,15 +1130,14 @@ bigmap:bigmap_6ca138a6_cf59_3711_9fdc_b35dd9ac6a5f a eurio:ProjectDeliverable,
     eurio:description "Prototype of the BIG-MAP App-store developed." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/6ca138a6-cf59-3711-9fdc-b35dd9ac6a5f> ;
     eurio:identifier "957189_57_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf,
-        bigmap:bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b ;
+    eurio:isResultOf bigmap:bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b ;
     eurio:language "en" ;
     eurio:rcn "847147"^^xsd:nonNegativeInteger ;
     eurio:title "Prototype of the BIG-MAP App-store" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d9fa2f33&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/6ca138a6-cf59-3711-9fdc-b35dd9ac6a5f> ;
     skos:altLabel "D9.1" ;
-    skos:prefLabel "Prototype of the BIG-MAP App-store" ;
+    skos:prefLabel "D9.1" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_93f24b16_09c1_31f8_a413_897527554e50 .
 
 bigmap:bigmap_7eecb49b_5afb_3e3e_8a0b_81c18bdc9f54 a eurio:ProjectDeliverable,
@@ -1153,15 +1147,14 @@ bigmap:bigmap_7eecb49b_5afb_3e3e_8a0b_81c18bdc9f54 a eurio:ProjectDeliverable,
     eurio:description "Report/paper on the identification of interphase descriptor dynamics for test system." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/7eecb49b-5afb-3e3e-8a0b-81c18bdc9f54> ;
     eurio:identifier "957189_68_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf,
-        bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 ;
+    eurio:isResultOf bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 ;
     eurio:language "en" ;
     eurio:rcn "847152"^^xsd:nonNegativeInteger ;
     eurio:title "Identification of interphase descriptor dynamics for test system" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5eb9bd538&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/7eecb49b-5afb-3e3e-8a0b-81c18bdc9f54> ;
     skos:altLabel "D11.2" ;
-    skos:prefLabel "Identification of interphase descriptor dynamics for test system" ;
+    skos:prefLabel "D11.2" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_39d843f7_61f9_3f38_9f43_9d13d46c99ac .
 
 bigmap:bigmap_83a1228e_b116_3839_b6ce_1dace75a9ee1 a eurio:ProjectDeliverable,
@@ -1171,15 +1164,14 @@ bigmap:bigmap_83a1228e_b116_3839_b6ce_1dace75a9ee1 a eurio:ProjectDeliverable,
     eurio:description "Active learning package/module demonstrated to work on pre-generated simulation or experimental data sets." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/83a1228e-b116-3839-b6ce-1dace75a9ee1> ;
     eurio:identifier "957189_63_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742 ;
     eurio:language "en" ;
     eurio:rcn "847148"^^xsd:nonNegativeInteger ;
     eurio:title "Active learning package/module demonstrated to work on pre-generated simulation or experimental data sets" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8ed32a3&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/83a1228e-b116-3839-b6ce-1dace75a9ee1> ;
     skos:altLabel "D10.1" ;
-    skos:prefLabel "Active learning package/module demonstrated to work on pre-generated simulation or experimental data sets" ;
+    skos:prefLabel "D10.1" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_93f24b16_09c1_31f8_a413_897527554e50 .
 
 bigmap:bigmap_94993bd9_dfb3_3fc6_957a_bdfaede80c32 a eurio:JournalPaper,
@@ -1313,15 +1305,14 @@ bigmap:bigmap_bc931a39_21cd_30e5_a0aa_2e5d18aacb25 a eurio:ProjectDeliverable,
     eurio:description "A Data Management Plan will be prepared which complies with the Open Research Data Pilot ORDP Requirements and the specific data requirements in the project" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bc931a39-21cd-30e5-a0aa-2e5d18aacb25> ;
     eurio:identifier "957189_3_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 ;
     eurio:language "en" ;
     eurio:rcn "847142"^^xsd:nonNegativeInteger ;
     eurio:title "Data Management Plan" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d9f18de8&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/bc931a39-21cd-30e5-a0aa-2e5d18aacb25> ;
     skos:altLabel "D1.2" ;
-    skos:prefLabel "Data Management Plan" ;
+    skos:prefLabel "D1.2" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_39d843f7_61f9_3f38_9f43_9d13d46c99ac .
 
 bigmap:bigmap_bfcda505_4f79_309a_9a28_087bce5da0c1 a eurio:ProjectDeliverable,
@@ -1331,15 +1322,14 @@ bigmap:bigmap_bfcda505_4f79_309a_9a28_087bce5da0c1 a eurio:ProjectDeliverable,
     eurio:description "Release of	initial protocols for calculational prediction of experimental spectra." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
     eurio:identifier "957189_18_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83 ;
     eurio:language "en" ;
     eurio:rcn "847138"^^xsd:nonNegativeInteger ;
     eurio:title "Initial protocols for experimental spectra prediction" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5eb9bcd5a&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
     skos:altLabel "D2.5" ;
-    skos:prefLabel "Initial protocols for experimental spectra prediction" .
+    skos:prefLabel "D2.5" .
 
 bigmap:bigmap_c5e97df5_4d94_34d8_824d_d5d09f1dab3b a eurio:ProjectDeliverable,
         eurio:Result,
@@ -1348,15 +1338,14 @@ bigmap:bigmap_c5e97df5_4d94_34d8_824d_d5d09f1dab3b a eurio:ProjectDeliverable,
     eurio:description "Report/paper submitted on ontology standards and development strategy." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/c5e97df5-4d94-34d8-824d-d5d09f1dab3b> ;
     eurio:identifier "957189_44_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 ;
     eurio:language "en" ;
     eurio:rcn "847139"^^xsd:nonNegativeInteger ;
     eurio:title "Report on ontology standards and development strategy" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d65e0c6e&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/c5e97df5-4d94-34d8-824d-d5d09f1dab3b> ;
     skos:altLabel "D7.1" ;
-    skos:prefLabel "Report on ontology standards and development strategy" ;
+    skos:prefLabel "D7.1" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_d278f769_5274_3681_927f_b46576dacc08 .
 
 bigmap:bigmap_cadc1140_d2a0_34ca_9ad8_3f67d7bb0c43 a eurio:JournalPaper,
@@ -1387,15 +1376,14 @@ bigmap:bigmap_ccd911a7_ba47_3b37_b9bf_360f363c6472 a eurio:ProjectDeliverable,
     eurio:description "Submission of report with proceedings from the international workshop/conference." ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/ccd911a7-ba47-3b37-b9bf-360f363c6472> ;
     eurio:identifier "957189_9_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 ;
     eurio:language "en" ;
     eurio:rcn "847154"^^xsd:nonNegativeInteger ;
     eurio:title "Proceeding from international workshop/conference" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8e21284&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/ccd911a7-ba47-3b37-b9bf-360f363c6472> ;
     skos:altLabel "D1.11" ;
-    skos:prefLabel "Proceeding from international workshop/conference" ;
+    skos:prefLabel "D1.11" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_fc316fc4_8181_3cc6_8688_6f9ad07847dc .
 
 bigmap:bigmap_cd2a896c_cb8c_3ae9_ad95_72ce2f43e1e6 a eurio:JournalPaper,
@@ -1426,15 +1414,14 @@ bigmap:bigmap_d13e9c9f_f3d3_3f47_93e8_09bd1500a59a a eurio:ProjectDeliverable,
     eurio:description "Initial version of battery ontology submitted" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/d13e9c9f-f3d3-3f47-93e8-09bd1500a59a> ;
     eurio:identifier "957189_45_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 ;
     eurio:language "en" ;
     eurio:rcn "847149"^^xsd:nonNegativeInteger ;
     eurio:title "Initial version of battery ontology" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d9ec3a70&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/d13e9c9f-f3d3-3f47-93e8-09bd1500a59a> ;
     skos:altLabel "D7.2" ;
-    skos:prefLabel "Initial version of battery ontology" ;
+    skos:prefLabel "D7.2" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_e19a26de_7fb1_3565_bc71_419147625560 .
 
 bigmap:bigmap_d3a9d203_9d8e_36c3_8a77_de15786777fa a eurio:ProjectDeliverable,
@@ -1444,15 +1431,14 @@ bigmap:bigmap_d3a9d203_9d8e_36c3_8a77_de15786777fa a eurio:ProjectDeliverable,
     eurio:description "Full design of robotic system for organic synthesis completed" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/d3a9d203-9d8e-36c3-8a77-de15786777fa> ;
     eurio:identifier "957189_27_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed ;
     eurio:language "en" ;
     eurio:rcn "847136"^^xsd:nonNegativeInteger ;
     eurio:title "Design of robotic system for organic synthesis completed" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e90206e6&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/d3a9d203-9d8e-36c3-8a77-de15786777fa> ;
     skos:altLabel "D4.7" ;
-    skos:prefLabel "Design of robotic system for organic synthesis completed" ;
+    skos:prefLabel "D4.7" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_58e96e56_252c_3480_b57f_14955d7a3f9e .
 
 bigmap:bigmap_d90071e8_1824_386d_98c2_660a045cff6f a eurio:JournalPaper,
@@ -1568,15 +1554,14 @@ bigmap:bigmap_eb2c1800_522e_3eaa_8022_f2d9c7803047 a eurio:ProjectDeliverable,
     eurio:description "Full design of robotic system for inorganic synthesis completed" ;
     eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/eb2c1800-522e-3eaa-8022-f2d9c7803047> ;
     eurio:identifier "957189_28_DELIV"^^rdfs:Literal ;
-    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed,
-        bigmap:bigmap_bf15e03c_4a6e_3ed2_8c1c_184014344ebf ;
+    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed ;
     eurio:language "en" ;
     eurio:rcn "847140"^^xsd:nonNegativeInteger ;
     eurio:title "Design of robotic system for inorganic synthesis completed" ;
     eurio:url "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e90209f6&appId=PPGMS"^^xsd:anyURI ;
     owl:equivalentClass <http://data.europa.eu/s66/resource/results/eb2c1800-522e-3eaa-8022-f2d9c7803047> ;
     skos:altLabel "D4.8" ;
-    skos:prefLabel "Design of robotic system for inorganic synthesis completed" ;
+    skos:prefLabel "D4.8" ;
     data:datamanagement_78f49bcd_6d21_4a55_9e27_bd03126c9a88 bigmap:bigmap_7261e552_6513_3f64_b919_10896d57925c .
 
 bigmap:bigmap_eb410a9a_b86c_3117_ae6c_d30f76f09540 a eurio:JournalPaper,
