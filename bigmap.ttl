@@ -2131,7 +2131,7 @@ bigmap:bigmap_18829225_4c17_44f8_b0d5_4a5f8c690c59 a owl:NamedIndividual,
         data:datamanagement_0a817093_49a9_4762_9eea_7f79a0fcc16b ;
     skos:altLabel "WP1" ;
     skos:prefLabel "WP1 Project management and education, exploitation and outreach"@en ;
-    schema:hasPresentation <https://share.dtu.dk/sites/BIG-MAP_389050/_layouts/15/WopiFrame.aspx?sourcedoc=%7B23A1B11C-58DD-4B19-83E0-3C85D04C546F%7D&file=23_S4_14.45_The%20linkage%20between%20WPs%20%26%20KDs_15%20min.pptx&action=default> ;
+    bigmap:hasPresentation <https://share.dtu.dk/sites/BIG-MAP_389050/_layouts/15/WopiFrame.aspx?sourcedoc=%7B23A1B11C-58DD-4B19-83E0-3C85D04C546F%7D&file=23_S4_14.45_The%20linkage%20between%20WPs%20%26%20KDs_15%20min.pptx&action=default> ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/wp1_icon.png> .
 
 bigmap:bigmap_58e96e56_252c_3480_b57f_14955d7a3f9e a eurio:OrganisationRole,
