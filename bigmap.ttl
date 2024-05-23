@@ -2583,3 +2583,159 @@ To succeed in this unprecedented international initiative, the BIG-MAP consortiu
     skos:prefLabel "BIG-MAP" ;
     schema:logo <https://raw.githubusercontent.com/BIG-MAP/ProjectKnowledgeGraph/main/assets/img/icon/bigmap_icon.png> .
 
+bigmap:bigmap_de9bce43_e25b_460d_88c3_e90495f1d0ef a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "1st demonstrator QML interface potential for experimentally relevant electrode-electrolyte system" ;
+    eurio:description "Completion of 1st demonstrator QML interface potential for experimentally relevant electrode-electrolyte system. The release is accompanied with a short descriptive report." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_b91eb00a_fe7d_47be_a0b3_efeadba81a83 ,
+        bigmap:bigmap_94526240_5e05_40e2_8461_a1cdb77d2018 ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "1st demonstrator QML interface potential for experimentally relevant electrode-electrolyte system" ;
+    skos:altLabel "D2.2" ;
+    skos:prefLabel "D2.2" .
+
+bigmap:bigmap_315307cc_59a6_443a_b937_15acfaab8eb0 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Workflow demonstrator" ;
+    eurio:description "Demonstration of autonomous workflow for multi scale simulations to consortium." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_655364d8_f87e_4a10_9c27_b2e70aea00ed ,
+        bigmap:bigmap_cc70b46b_0401_409d_af37_c78685e98f76 ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Workflow demonstrator" ;
+    skos:prefLabel "D3.5" .
+
+bigmap:bigmap_ef236e5c_c2b4_4a4c_b0f2_04b87f9f5c04 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Demonstration of automated synthesis procedure" ;
+    eurio:description "Demonstration of automated synthesis procedure completed." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_9a9f7579_0e77_43d4_b902_76de1ea597ed ,
+        bigmap:bigmap_66db2cb6_df8f_4e27_9aa2_6a0062344568 ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Demonstration of automated synthesis procedure" ;
+    skos:prefLabel "D4.6" .
+
+bigmap:bigmap_f77cdef9_3a88_4a54_85af_337fe5a6a993 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Demonstration of the capability to run coordinated multi-techniques experiments to acquire multi-scale data, and practical application to a selected chemistry" ;
+    eurio:description "Completion of a demonstration of the capability to run coordinated multi-techniques experiments to acquire multi-scale data, and practical application to a selected chemistry." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_c1a3e38f_3da3_4c61_b3d0_b761079a5ad4 ,
+        bigmap:bigmap_9338cde6_8924_4d7e_a02d_2d3e0701a7ac ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Demonstration of the capability to run coordinated multi-techniques experiments to acquire multi-scale data, and practical application to a selected chemistry" ;
+    skos:prefLabel "D5.3" .
+
+bigmap:bigmap_91f312ab_e499_4479_b493_23a8a07b336e a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Advanced direct SEI investigations for chemistry neutral lithium-based batteries by integrated high throughput electrochemistry with ex situ high throughput spectroscopy" ;
+    eurio:description "Report/paper submitted on the use of advanced direct SEI investigations for chemistry neutral lithium-based batteries by integrated high throughput electrochemistry with ex situ high throughput spectroscopy." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_b2c14112_53f4_4df0_a219_93fc6c1b0fe4 ,
+        bigmap:bigmap_7c99c738_c7b7_4297_894e_38ed5ae83b50 ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Advanced direct SEI investigations for chemistry neutral lithium-based batteries by integrated high throughput electrochemistry with ex situ high throughput spectroscopy" ;
+    skos:prefLabel "D6.4" .
+
+bigmap:bigmap_d136a4f2_79d3_4bb0_a9b9_7cff0eecc29b a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Battery Interface Ontology published according to standards in the European modelling community" ;
+    eurio:description "The Battery Interface Ontology (BIO) has been published according to standards in the European modelling community." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_295cc7e2_2be8_4747_a1ca_bd93f84e31f3 ,
+        bigmap:bigmap_66642d47_58c4_4241_ab06_030feffa0aaf ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Battery Interface Ontology published according to standards in the European modelling community" ;
+    skos:prefLabel "D7.5" .
+
+bigmap:bigmap_a29dd02f_f524_4ec5_94f5_8de9d5432d98 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "First European platform open to researchers/industries outside of the consortium where batteries can be tested following the tests protocols defined in BIG-MAP" ;
+    eurio:description "First European platform open to researchers/industries outside of the consortium where batteries can be tested following the tests protocols defined in BIG-MAP." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_aaaae45f_1194_49b9_9fa8_75227e7ebbc3 ,
+        bigmap:bigmap_8866787e_893b_4430_af03_8b21c9a63449 ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "First European platform open to researchers/industries outside of the consortium where batteries can be tested following the tests protocols defined in BIG-MAP" ;
+    skos:prefLabel "D8.8" .
+
+bigmap:bigmap_60ee7bb3_3230_4952_879f_b47068e08999 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Automated workflows linking experiments and modelling for representative samples of battery materials" ;
+    eurio:description "Report/paper submitted on automated workflows linking experiments and modelling for representative samples of battery materials." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b ,
+        bigmap:bigmap_a46f3676_3bdb_424d_b864_bd933dfeb68c ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Automated workflows linking experiments and modelling for representative samples of battery materials" ;
+    skos:prefLabel "D9.2" .
+
+bigmap:bigmap_39a74108_9728_4531_9d20_418248399a28 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Updated BIG-MAP App-store" ;
+    eurio:description "Launch of updated BIG-MAP App-store, including tools providing access to Open Data from the project deposited in the Materials Cloud repository." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_dbae3b87_eee8_4f89_a80e_f01881ce062b ,
+        bigmap:bigmap_dc4aacec_4357_4486_a1bd_18ec894ebed1 ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Updated BIG-MAP App-store" ;
+    skos:prefLabel "D9.5" .
+
+bigmap:bigmap_84e96680_c806_4b64_be01_7fb51ba42d3f a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Modular package for analysis of pertinent spectroscopic data and electrochemistry" ;
+    eurio:description "Modular package for analysis of pertinent spectroscopic data and electrochemistry developed." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_3bf70109_a62c_4c7b_a9cb_1fd35d0eb742 ,
+        bigmap:bigmap_b08c7a35_bdb7_4aca_83be_77f9554a462b ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Modular package for analysis of pertinent spectroscopic data and electrochemistry" ;
+    skos:prefLabel "D10.2" .
+
+bigmap:bigmap_9331b71d_6567_4b44_8a17_2105a0137d55 a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "1st generation uncertainty-guided hybrid physics- and data-driven model of battery interfaces" ;
+    eurio:description "1st generation uncertainty-guided hybrid physics- and data-driven model of battery interfaces developed." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 ,
+        bigmap:bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "1st generation uncertainty-guided hybrid physics- and data-driven model of battery interfaces" ;
+    skos:prefLabel "D11.4" .
+
+bigmap:bigmap_7a6a8129_1020_41d7_bfe9_907eb58928be a eurio:ProjectDeliverable,
+        eurio:Result,
+        owl:NamedIndividual ;
+    rdfs:label "Demonstrate transfer of select model(s) to novel battery materials/chemistry" ;
+    eurio:description "Demonstration of transfer of select model(s) to novel battery materials/chemistry completed." ;
+    eurio:hasResultType <http://data.europa.eu/s66/resource/restypes/bfcda505-4f79-309a-9a28-087bce5da0c1> ;
+    eurio:isResultOf bigmap:bigmap_d79c6a6f_333a_44f5_8b90_487a1b69fc20 ,
+        bigmap:bigmap_166d46d7_78ac_4b21_9a03_d8be72f9830e ;
+    eurio:language "en" ;
+    eurio:rcn "847138"^^xsd:nonNegativeInteger ;
+    eurio:title "Demonstrate transfer of select model(s) to novel battery materials/chemistry" ;
+    skos:prefLabel "D11.5" .
