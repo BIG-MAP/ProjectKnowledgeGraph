@@ -512,7 +512,6 @@ bigmap:bigmap_9f4ee7b1_8cf9_45b9_a015_b20ff435bd36 a owl:NamedIndividual,
 bigmap:bigmap_a46f3676_3bdb_424d_b864_bd933dfeb68c a eurio:Result,
         owl:NamedIndividual ;
     rdfs:label "KD8  - Automated Workflow Demonstrator for integrated simulations and experiments" ;
-    bigmap:hasPresentation <https://share.dtu.dk/sites/BIG-MAP_389050/Shared%20Documents/Final%20reporting/Final%20review/KD%20presentations/22_S1_11.00_KD6.pptx?d=w6fd45553fd704180a316afd5e9e07af4> ;
     eurio:abstract """\r\r\r
         Partners from DTU, EPFL, PSI, SINTEF and KIT teamed up in June 2022 to demonstrate an international materials acceleration platform (MAP) offering laboratory services through a marketplace. The operability and a proof of concept were demonstrated in an initial demonstration. The findings and lessons learned are published in an open access article1. Based on the identified means of improvement, the team revised the existing framework by restructuring the backend and improving the definition of the interfaces. The work on FINALES 2 was initiated in an intense hackathon of the server development team hosted at the Helmholtz-Institute Ulm in March 2023.\r\r\r
 \r\r\r
