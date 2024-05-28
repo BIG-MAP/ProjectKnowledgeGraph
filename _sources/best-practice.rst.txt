@@ -8,7 +8,7 @@ A key challenges faced by researchers and manufacturers alike is the variability
 
 The assembly procedure for coin cells involves several critical steps, each of which can influence the final performance of the cell. Among these steps, the timing of electrolyte injection and the precise amount of electrolyte used are crucial. The electrolyte serves as the medium for ionic transport between the anode and cathode, and any inconsistencies in its application can lead to significant performance variations.
 
-.. figure:: ../assets/img/fig/coin_cell_assembly.png
+.. figure:: ../assets/img/fig/coin_cell_assembly_process.png
    :alt: Coin Cell Assembly Diagram
    :align: center
 
